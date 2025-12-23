@@ -19,6 +19,7 @@ email.cdn-tinkoff.ru
 business.t-static.ru
 business.cdn-tinkoff.ru
 imgproxy.cdn-tinkoff.ru
+invest-frontend.cdn-tinkoff.ru
 t-j.ru
 pulse-image-avatar.cdn-tinkoff.ru
 pulse-image-post.cdn-tinkoff.ru
@@ -26,6 +27,13 @@ pulse-navigation-image.cdn-tinkoff.ru
 invest-wmadm-feed-bucket.cdn-tinkoff.ru
 invest-wmadm-widgets-bucket.cdn-tinkoff.ru
 chatbackend.social-solutions.ru
+
+xray.abvpn.ru
+ru09.abvpn.net
+de18.abvpn.net
+de12.abvpn.ru
+lt03.abvpn.net
+usa04.abvpn.net
 
 keeneticmom.netcraze.link
 
