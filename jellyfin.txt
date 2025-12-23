@@ -20,3 +20,6 @@ ru3.tvtm.one
 10.tvtm.one
 _8080._https.11.tvtm.one
 _8080._https.10.tvtm.one
+ru2.tvtm.one
+ru.tvtm.one
+nl2.tvtm.one
