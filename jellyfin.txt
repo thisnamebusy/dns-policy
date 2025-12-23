@@ -18,3 +18,5 @@ ru3.team.ga
 ru3.tvtm.one
 11.tvtm.one
 10.tvtm.one
+_8080._https.11.tvtm.one
+_8080._https.10.tvtm.one
