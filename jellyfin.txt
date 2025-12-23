@@ -15,3 +15,6 @@ ru3.team.ga
 14.team.ga
 15.team.ga
 16.team.ga
+ru3.tvtm.one
+11.tvtm.one
+10.tvtm.one
