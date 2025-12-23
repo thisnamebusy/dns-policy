@@ -24,3 +24,4 @@ ru2.tvtm.one
 ru.tvtm.one
 nl2.tvtm.one
 ru2.tvtm.one
+hk.tvtm.one
