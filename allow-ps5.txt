@@ -5,3 +5,4 @@ login-1.wowslegends.com
 login-2.wowslegends.com
 csis-lg.wowslegends.com
 vulcan.dl.playstation.net
+mafia.2k.com
