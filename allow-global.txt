@@ -28,13 +28,25 @@ email.cdn-tinkoff.ru
 t-j.ru
 chatbackend.social-solutions.ru
 
-# --- VPN / ABVPN ---
+# --- VPN / ABVPN (core) ---
 xray.abvpn.ru
-ru09.abvpn.net
+ru26.abvpn.ru
 de12.abvpn.ru
-de18.abvpn.net
+ru09.abvpn.net
+ru57.abvpn.net
+nl29.abvpn.net
 lt03.abvpn.net
+de18.abvpn.net
 usa04.abvpn.net
+ru13.theabvp.org
+ru41.theabvp.org
+ru50.theabvp.org
+ru25.tcpdoor.net
+ru37.tcpdoor.net
+ru71.tcpdoor.net
+0ru86.tcpnet.fun
+aut04.lowlatency.cloud
+5jtchkrg1q.a.trbcdn.net
 
 # --- Keenetic infrastructure ---
 keeneticmom.netcraze.link
