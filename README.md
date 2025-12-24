@@ -14,7 +14,8 @@
 
 ## Файлы
 
-- `global.txt` — глобальный allowlist (домен разрешён для всех клиентов).
-- `jellyfin.txt` — allowlist для клиента/сервиса Jellyfin (IPTV/CDN/внешние API).
-- `ps5.txt` — allowlist для PlayStation 5 (авторизация/сервисы/загрузки).
-- `smb.txt` — allowlist для SMB/torrent-клиента (трекеры и инфраструктура).
+- `allow-global.txt` — глобальный allowlist.
+- `allow-jellyfin.txt` — allowlist для клиента/сервиса Jellyfin.
+- `allow-ps5.txt` — allowlist для PlayStation 5.
+- `allow-smb.txt` — allowlist для SMB/torrent-клиента.
+- `deny-global.txt` — глобальный denylist.
