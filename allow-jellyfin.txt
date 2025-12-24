@@ -26,6 +26,7 @@ tvtm.one
 
 # --- tvtm.one (regional hosts) ---
 ru.tvtm.one
+rus.tvtm.one
 nl.tvtm.one
 pl.tvtm.one
 hk.tvtm.one
