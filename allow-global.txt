@@ -3,7 +3,6 @@ rus.tvtm.one
 kinopoiskapiunofficial.tech
 kinopoisk.userecho.com
 
-team.ga
 mafia.2k.com
 one.one.one.one
 
@@ -12,7 +11,7 @@ www.cdn-tinkoff.ru
 fallback.cdn-tinkoff.ru
 acdn.tinkoff.ru
 invest-brands.cdn-tinkoff.ru
-invest-terminal-static.t-static.ru
+#invest-terminal-static.t-static.ru
 unic-cdn-prod.cdn-tinkoff.ru
 mobile-bank.cdn-tinkoff.ru
 email.cdn-tinkoff.ru
