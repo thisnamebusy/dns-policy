@@ -35,7 +35,7 @@ yastatic.net
 frontend.vh.yandex.ru
 wowslegends.com
 hd.kinopoisk.ru
-mamba.ru
+www.mamba.ru
 static.wmbcdn.com
 aoostar.com
 nnmstatic.win
