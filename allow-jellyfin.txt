@@ -15,7 +15,6 @@ ru3.team.ga
 14.team.ga
 15.team.ga
 16.team.ga
-
 ru.tvtm.one
 _8080._https.ru.tvtm.one
 pl.tvtm.one
@@ -28,7 +27,6 @@ ru2.tvtm.one
 _8080._https.ru2.tvtm.one
 ru3.tvtm.one
 _8080._https.ru3.tvtm.one
-
 2.tvtm.one
 _8080._https.2.tvtm.one
 3.tvtm.one
