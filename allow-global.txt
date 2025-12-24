@@ -1,41 +1,57 @@
+# --- DNS / infrastructure ---
 one.one.one.one
 
+# --- Tinkoff / T-Bank (core CDN) ---
 cdn.tbank.ru
+acdn.tinkoff.ru
 www.cdn-tinkoff.ru
 fallback.cdn-tinkoff.ru
-acdn.tinkoff.ru
-invest-brands.cdn-tinkoff.ru
-#invest-terminal-static.t-static.ru
 unic-cdn-prod.cdn-tinkoff.ru
-mobile-bank.cdn-tinkoff.ru
-email.cdn-tinkoff.ru
-business.t-static.ru
+
+# --- Tinkoff / T-Bank (business & frontend) ---
 business.cdn-tinkoff.ru
-imgproxy.cdn-tinkoff.ru
+business.t-static.ru
 invest-frontend.cdn-tinkoff.ru
-t-j.ru
+invest-brands.cdn-tinkoff.ru
+
+# --- Tinkoff / T-Bank (media, images, widgets) ---
+imgproxy.cdn-tinkoff.ru
 pulse-image-avatar.cdn-tinkoff.ru
 pulse-image-post.cdn-tinkoff.ru
 pulse-navigation-image.cdn-tinkoff.ru
 invest-wmadm-feed-bucket.cdn-tinkoff.ru
 invest-wmadm-widgets-bucket.cdn-tinkoff.ru
+
+# --- Tinkoff / T-Bank (services) ---
+mobile-bank.cdn-tinkoff.ru
+email.cdn-tinkoff.ru
+t-j.ru
 chatbackend.social-solutions.ru
 
+# --- VPN / ABVPN ---
 xray.abvpn.ru
 ru09.abvpn.net
-de18.abvpn.net
 de12.abvpn.ru
+de18.abvpn.net
 lt03.abvpn.net
 usa04.abvpn.net
 
+# --- Keenetic infrastructure ---
 keeneticmom.netcraze.link
 
+# --- Google / Yandex ---
 translate.google.com
 frontend.vh.yandex.ru
+
+# --- Media / entertainment ---
 wowslegends.com
 hd.kinopoisk.ru
+
+# --- Mamba ---
 www.mamba.ru
 media.mamba.ru
 static.wmbcdn.com
+
+# --- Vendors / misc ---
 aoostar.com
 nnmstatic.win
