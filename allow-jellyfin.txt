@@ -26,6 +26,7 @@ tvtm.one
 
 # --- tvtm.one (regional hosts) ---
 ru.tvtm.one
+ru4.tvtm.one
 rus.tvtm.one
 nl.tvtm.one
 pl.tvtm.one
@@ -55,6 +56,7 @@ _8080._https.hk.tvtm.one
 _8080._https.nl2.tvtm.one
 _8080._https.ru2.tvtm.one
 _8080._https.ru3.tvtm.one
+_8080._https.ru4.tvtm.one
 _8080._https.2.tvtm.one
 _8080._https.3.tvtm.one
 _8080._https.4.tvtm.one
