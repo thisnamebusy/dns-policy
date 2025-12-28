@@ -62,6 +62,7 @@ hd.kinopoisk.ru
 # --- Mamba ---
 www.mamba.ru
 media.mamba.ru
+static.wmbcdn.com
 
 # --- Vendors / misc ---
 aoostar.com
