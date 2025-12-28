@@ -1,2 +1,5 @@
 api.start.ru
 partners.ott.yandex.ru
+ads.adfox.ru
+yastatic.net
+mc.yandex.ru
