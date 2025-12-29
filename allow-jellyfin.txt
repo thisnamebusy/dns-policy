@@ -2,7 +2,7 @@
 kinopoiskapiunofficial.tech
 kinopoisk.userecho.com
 
-# --- team.ga (Jellyfin / IPTV nodes) ---
+# --- team.ga
 ru.team.ga
 ru2.team.ga
 ru3.team.ga
@@ -21,19 +21,18 @@ hk.team.ga
 15.team.ga
 16.team.ga
 
-# --- tvtm.one (base) ---
+# --- tvtm.one
 tvtm.one
-
-# --- tvtm.one (regional hosts) ---
 ru.tvtm.one
-ru4.tvtm.one
-rus.tvtm.one
-nl.tvtm.one
-pl.tvtm.one
-hk.tvtm.one
-nl2.tvtm.one
 ru2.tvtm.one
 ru3.tvtm.one
+ru4.tvtm.one
+ru5.tvtm.one
+rus.tvtm.one
+nl.tvtm.one
+nl2.tvtm.one
+pl.tvtm.one
+hk.tvtm.one
 2.tvtm.one
 3.tvtm.one
 4.tvtm.one
