@@ -1,4 +1,4 @@
-# dns-allowlists
+# dns-policy
 
 Централизованные DNS списки для локальной инфраструктуры (AdGuard Home).
 
