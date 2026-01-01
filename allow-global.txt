@@ -50,6 +50,7 @@ keeneticmom.netcraze.link
 # --- Google / Yandex ---
 translate.google.com
 frontend.vh.yandex.ru
+maps.yastatic.net
 
 # --- Media / entertainment ---
 wowslegends.com
