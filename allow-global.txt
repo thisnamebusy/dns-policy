@@ -64,3 +64,6 @@ static.wmbcdn.com
 # --- Vendors / misc ---
 aoostar.com
 nnmstatic.win
+
+# --- Mail.ru
+o2.mail.ru
