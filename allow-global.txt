@@ -61,9 +61,6 @@ www.mamba.ru
 media.mamba.ru
 static.wmbcdn.com
 
-# --- Tabor ---
-widget.cloudpayments.ru
-
 # --- Vendors / misc ---
 aoostar.com
 nnmstatic.win
