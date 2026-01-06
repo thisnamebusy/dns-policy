@@ -67,3 +67,6 @@ nnmstatic.win
 
 # --- Mail.ru
 o2.mail.ru
+
+# --- Kvado
+api.mobile.pc.kvado.ru
