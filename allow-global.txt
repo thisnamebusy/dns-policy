@@ -1,6 +1,3 @@
-# --- DNS / infrastructure ---
-one.one.one.one
-
 # --- Tinkoff / T-Bank (core CDN) ---
 cdn.tbank.ru
 acdn.tinkoff.ru
@@ -44,29 +41,21 @@ ru71.tcpdoor.net
 aut04.lowlatency.cloud
 5jtchkrg1q.a.trbcdn.net
 
-# --- Keenetic infrastructure ---
-keeneticmom.netcraze.link
-
-# --- Google / Yandex ---
+# --- Other
 translate.google.com
 frontend.vh.yandex.ru
 maps.yastatic.net
-
-# --- Media / entertainment ---
 wowslegends.com
 hd.kinopoisk.ru
-
-# --- Mamba ---
 www.mamba.ru
 media.mamba.ru
 static.wmbcdn.com
-
-# --- Vendors / misc ---
 aoostar.com
 nnmstatic.win
-
-# --- Mail.ru
 o2.mail.ru
-
-# --- Kvado
 api.mobile.pc.kvado.ru
+fivepost.ru
+keeneticmom.netcraze.link
+
+# --- DNS / infrastructure ---
+one.one.one.one
