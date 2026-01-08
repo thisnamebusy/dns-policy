@@ -59,3 +59,4 @@ keeneticmom.netcraze.link
 
 # --- DNS / infrastructure ---
 one.one.one.one
+family.adguard-dns.com
