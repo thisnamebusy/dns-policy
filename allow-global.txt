@@ -63,4 +63,4 @@ family.adguard-dns.com
 push.yandex.ru
 frontend.vh.yandex.ru
 maps.yastatic.net
-yastatic-net.ru
+yastatic.net
