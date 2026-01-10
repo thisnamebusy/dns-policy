@@ -41,6 +41,16 @@ ru71.tcpdoor.net
 aut04.lowlatency.cloud
 5jtchkrg1q.a.trbcdn.net
 
+# --- DNS / infrastructure ---
+one.one.one.one
+family.adguard-dns.com
+
+# --- Yandex ---
+push.yandex.ru
+frontend.vh.yandex.ru
+maps.yastatic.net
+yastatic.net
+
 # --- Other ---
 translate.google.com
 wowslegends.com
@@ -54,13 +64,3 @@ o2.mail.ru
 api.mobile.pc.kvado.ru
 fivepost.ru
 keeneticmom.netcraze.link
-
-# --- DNS / infrastructure ---
-one.one.one.one
-family.adguard-dns.com
-
-# --- Yandex ---
-push.yandex.ru
-frontend.vh.yandex.ru
-maps.yastatic.net
-yastatic.net
