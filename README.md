@@ -16,6 +16,6 @@
 
 - `allow-global.txt` — глобальный allowlist.
 - `allow-jellyfin.txt` — allowlist для клиента/сервиса Jellyfin.
-- `allow-ps5.txt` — allowlist для PlayStation 5.
+- `allow-ps.txt` — allowlist для PlayStation.
 - `allow-smb.txt` — allowlist для SMB/torrent-клиента.
 - `deny-global.txt` — глобальный denylist.
