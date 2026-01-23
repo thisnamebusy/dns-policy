@@ -20,6 +20,7 @@ t-j.ru
 chatbackend.social-solutions.ru
 error-hub.tbank.ru
 error-hub.tinkoff.ru
+invest-tracking-strategy.cdn-tinkoff.ru
 
 # --- VPN / ABVPN (core) ---
 xray.abvpn.ru
