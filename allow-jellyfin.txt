@@ -29,6 +29,7 @@ ru3.tvtm.one
 ru4.tvtm.one
 ru5.tvtm.one
 ru6.tvtm.one
+ru7.tvtm.one
 rus.tvtm.one
 nl.tvtm.one
 nl2.tvtm.one
