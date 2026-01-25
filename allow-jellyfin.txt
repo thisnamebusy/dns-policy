@@ -41,6 +41,8 @@ hk.tvtm.one
 5.tvtm.one
 6.tvtm.one
 7.tvtm.one
+8.tvtm.one
+9.tvtm.one
 10.tvtm.one
 11.tvtm.one
 12.tvtm.one
@@ -65,6 +67,8 @@ _8080._https.4.tvtm.one
 _8080._https.5.tvtm.one
 _8080._https.6.tvtm.one
 _8080._https.7.tvtm.one
+_8080._https.8.tvtm.one
+_8080._https.9.tvtm.one
 _8080._https.10.tvtm.one
 _8080._https.11.tvtm.one
 _8080._https.12.tvtm.one
