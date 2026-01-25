@@ -61,6 +61,8 @@ _8080._https.ru2.tvtm.one
 _8080._https.ru3.tvtm.one
 _8080._https.ru4.tvtm.one
 _8080._https.ru5.tvtm.one
+_8080._https.ru6.tvtm.one
+_8080._https.ru7.tvtm.one
 _8080._https.2.tvtm.one
 _8080._https.3.tvtm.one
 _8080._https.4.tvtm.one
