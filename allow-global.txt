@@ -22,6 +22,7 @@ error-hub.tbank.ru
 error-hub.tinkoff.ru
 invest-tracking-strategy.cdn-tinkoff.ru
 chat.social-solutions.ru
+settings-service.social-solutions.ru
 
 
 # --- VPN / ABVPN (core) ---
