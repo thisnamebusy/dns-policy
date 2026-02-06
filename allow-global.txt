@@ -70,3 +70,4 @@ fivepost.ru
 keeneticmom.netcraze.link
 st.aliexpress.ru
 www.pspx.ru
+lvgl.io
