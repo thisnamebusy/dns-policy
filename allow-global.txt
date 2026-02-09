@@ -74,3 +74,4 @@ lvgl.io
 
 # --- ollama ---
 api.workos.com
+signin.ollama.com
