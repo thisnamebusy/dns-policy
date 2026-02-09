@@ -71,3 +71,6 @@ keeneticmom.netcraze.link
 st.aliexpress.ru
 www.pspx.ru
 lvgl.io
+
+# --- ollama ---
+api.workos.com
