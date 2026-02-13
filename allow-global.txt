@@ -76,3 +76,4 @@ lvgl.io
 api.workos.com
 signin.ollama.com
 chat.z.ai
+docs.z.ai
