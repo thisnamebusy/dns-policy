@@ -71,6 +71,7 @@ keeneticmom.netcraze.link
 st.aliexpress.ru
 www.pspx.ru
 lvgl.io
+crl.microsoft.com
 
 # --- neural networks ---
 api.workos.com
