@@ -81,3 +81,4 @@ docs.z.ai
 g.alicdn.com
 d.alicdn.com
 img.alicdn.com
+aplus.qwen.ai
