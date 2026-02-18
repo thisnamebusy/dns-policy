@@ -79,3 +79,5 @@ signin.ollama.com
 chat.z.ai
 docs.z.ai
 g.alicdn.com
+d.alicdn.com
+img.alicdn.com
