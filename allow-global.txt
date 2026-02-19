@@ -78,7 +78,11 @@ api.workos.com
 signin.ollama.com
 chat.z.ai
 docs.z.ai
+# -- qwen.ai --
 g.alicdn.com
 d.alicdn.com
 img.alicdn.com
 aplus.qwen.ai
+ss.qwen.ai
+alidt.alicdn.com
+assets.alicdn.com
