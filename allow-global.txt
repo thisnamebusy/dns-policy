@@ -76,6 +76,7 @@ crl.microsoft.com
 # --- neural networks ---
 api.workos.com
 signin.ollama.com
+# -- z.ai GLM --
 chat.z.ai
 docs.z.ai
 # -- qwen.ai --
@@ -86,3 +87,5 @@ aplus.qwen.ai
 ss.qwen.ai
 alidt.alicdn.com
 assets.alicdn.com
+at.alicdn.com
+o.alicdn.com
