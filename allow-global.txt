@@ -74,6 +74,7 @@ lvgl.io
 crl.microsoft.com
 
 # --- neural networks ---
+skills.sh
 api.workos.com
 signin.ollama.com
 # -- z.ai GLM --
