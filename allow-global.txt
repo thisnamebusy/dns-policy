@@ -74,6 +74,7 @@ lvgl.io
 crl.microsoft.com
 
 # --- neural networks ---
+agentskills.io
 nanaimage.ai
 skills.sh
 api.workos.com
