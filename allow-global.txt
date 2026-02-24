@@ -26,6 +26,7 @@ settings-service.social-solutions.ru
 
 
 # --- VPN / ABVPN (core) ---
+kilo.ai
 xray.abvpn.ru
 ru26.abvpn.ru
 de12.abvpn.ru
