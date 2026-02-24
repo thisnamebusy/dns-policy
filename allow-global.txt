@@ -85,6 +85,7 @@ signin.ollama.com
 chat.z.ai
 docs.z.ai
 # -- qwen.ai --
+ga-bp1aognb8xq6akjh9r3do.aliyunga0018.com
 portal.qwen.ai
 g.alicdn.com
 d.alicdn.com
