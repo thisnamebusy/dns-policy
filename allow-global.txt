@@ -74,6 +74,7 @@ lvgl.io
 crl.microsoft.com
 
 # --- neural networks ---
+opencode.ai
 agentskills.io
 nanaimage.ai
 skills.sh
