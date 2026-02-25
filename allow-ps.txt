@@ -1,12 +1,20 @@
-#--- PS5 ---
-508223012e5a5ff19f30a391b2bdadc0.my.2k.com
-sso.api.2kcoretech.online
-promotions.api.2kcoretech.online
-login-1.wowslegends.com
-login-2.wowslegends.com
-csis-lg.wowslegends.com
-vulcan.dl.playstation.net
-mafia.2k.com
+# =============================================================================
+# PlayStation / Gaming Services
+# =============================================================================
 
-#--- PS3 ---
-f91991q0.bget.ru
+# ----------------------------------------
+# PS5
+# ----------------------------------------
+508223012e5a5ff19f30a391b2bdadc0.my.2k.com  # CDN для игровых ассетов 2K Games (хешированный поддомен)
+csis-lg.wowslegends.com                     # Сервис поддержки World of Warships Legends
+login-1.wowslegends.com                     # Сервер авторизации WoWs Legends (первичный)
+login-2.wowslegends.com                     # Сервер авторизации WoWs Legends (резервный)
+mafia.2k.com                                # Домен игры Mafia (2K Games)
+promotions.api.2kcoretech.online            # API акций и промо-контента 2K Games
+sso.api.2kcoretech.online                   # API единого входа (SSO) для экосистемы 2K
+vulcan.dl.playstation.net                   # Официальный CDN PlayStation для загрузки контента
+
+# ----------------------------------------
+# PS3
+# ----------------------------------------
+f91991q0.bget.ru                            # Хостинг Bget.ru (возможно, прокси или игровой сервер)
