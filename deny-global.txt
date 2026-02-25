@@ -1,11 +1,26 @@
-api.start.ru
-partners.ott.yandex.ru
-ads.adfox.ru
-yastatic.net
-mc.yandex.ru
-https://common.dot.dns.yandex.net/dns-query
-tls://common.dot.dns.yandex.net
-https://safe.dot.dns.yandex.net/dns-query
-tls://safe.dot.dns.yandex.net
-https://family.dot.dns.yandex.net/dns-query
-tls://family.dot.dns.yandex.net
+# =============================================================================
+# Yandex Services
+# =============================================================================
+
+# ----------------------------------------
+# Core services / CDN
+# ----------------------------------------
+api.start.ru                                # API Яндекс.Старта (персональная стартовая страница)
+partners.ott.yandex.ru                      # API партнёрской интеграции Яндекс.ТВ / OTT
+yastatic.net                                # Основной CDN для статики сервисов Яндекса
+
+# ----------------------------------------
+# Advertising / Analytics
+# ----------------------------------------
+ads.adfox.ru                                # Рекламная платформа AdFox (входит в экосистему Яндекса)
+mc.yandex.ru                                # Яндекс.Метрика (сбор веб-аналитики и телеметрии)
+
+# ----------------------------------------
+# DNS over HTTPS / TLS (DoH / DoT)
+# ----------------------------------------
+https://common.dot.dns.yandex.net/dns-query   # DoH-эндпоинт: базовый DNS Яндекса (без фильтрации)
+https://family.dot.dns.yandex.net/dns-query   # DoH-эндпоинт: семейный DNS с фильтрацией 18+
+https://safe.dot.dns.yandex.net/dns-query     # DoH-эндпоинт: безопасный DNS с блокировкой угроз
+tls://common.dot.dns.yandex.net                 # DoT-эндпоинт: базовый DNS Яндекса (DNS-over-TLS)
+tls://family.dot.dns.yandex.net                 # DoT-эндпоинт: семейный DNS с фильтрацией 18+
+tls://safe.dot.dns.yandex.net                   # DoT-эндпоинт: безопасный DNS с блокировкой угроз
