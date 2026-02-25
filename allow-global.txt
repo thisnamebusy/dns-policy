@@ -1,98 +1,119 @@
-# --- Tinkoff / T-Bank (core CDN) ---
-cdn.tbank.ru
-acdn.tinkoff.ru
-www.cdn-tinkoff.ru
-fallback.cdn-tinkoff.ru
-unic-cdn-prod.cdn-tinkoff.ru
-business.cdn-tinkoff.ru
-business.t-static.ru
-invest-frontend.cdn-tinkoff.ru
-invest-brands.cdn-tinkoff.ru
-imgproxy.cdn-tinkoff.ru
-pulse-image-avatar.cdn-tinkoff.ru
-pulse-image-post.cdn-tinkoff.ru
-pulse-navigation-image.cdn-tinkoff.ru
-invest-wmadm-feed-bucket.cdn-tinkoff.ru
-invest-wmadm-widgets-bucket.cdn-tinkoff.ru
-mobile-bank.cdn-tinkoff.ru
-email.cdn-tinkoff.ru
-t-j.ru
-chatbackend.social-solutions.ru
-error-hub.tbank.ru
-error-hub.tinkoff.ru
-invest-tracking-strategy.cdn-tinkoff.ru
-chat.social-solutions.ru
-settings-service.social-solutions.ru
+# =============================================================================
+# Tinkoff / T-Bank (Core CDN & Services)
+# =============================================================================
+acdn.tinkoff.ru                             # CDN для авторизации и аккаунтов
+business.cdn-tinkoff.ru                     # CDN для бизнес-сегмента
+business.t-static.ru                        # Статика бизнес-портала
+cdn.tbank.ru                                # Основной CDN домен T-Bank
+chat.social-solutions.ru                    # Сервис чата (сторонний провайдер)
+chatbackend.social-solutions.ru             # API бэкенда чата
+email.cdn-tinkoff.ru                        # CDN для email-рассылок
+error-hub.tbank.ru                          # Сбор ошибок и телеметрии
+error-hub.tinkoff.ru                        # Сбор ошибок (legacy домен)
+fallback.cdn-tinkoff.ru                     # Резервный CDN-шлюз
+imgproxy.cdn-tinkoff.ru                     # Прокси для обработки изображений
+invest-brands.cdn-tinkoff.ru                # Медиа-контент для T-Investments
+invest-frontend.cdn-tinkoff.ru              # Фронтенд инвестиционной платформы
+invest-tracking-strategy.cdn-tinkoff.ru     # Трекинг инвестиционных стратегий
+invest-wmadm-feed-bucket.cdn-tinkoff.ru     # Контент-фиды виджетов
+invest-wmadm-widgets-bucket.cdn-tinkoff.ru  # Виджеты инвестиционной платформы
+mobile-bank.cdn-tinkoff.ru                  # CDN мобильного приложения
+pulse-image-avatar.cdn-tinkoff.ru           # Аватары для соцсети Pulse
+pulse-image-post.cdn-tinkoff.ru             # Изображения постов Pulse
+pulse-navigation-image.cdn-tinkoff.ru       # Навигационные изображения Pulse
+settings-service.social-solutions.ru        # Сервис настроек чата
+t-j.ru                                      # Домен Т-Ж (Тинькофф Журнал)
+unic-cdn-prod.cdn-tinkoff.ru                # Унифицированный продакшн CDN
+www.cdn-tinkoff.ru                          # WWW-шлюз CDN
 
+# =============================================================================
+# VPN / ABVPN (core)
+# =============================================================================
+0ru86.tcpnet.fun                            # Узел туннелирования (TCP)
+5jtchkrg1q.a.trbcdn.net                     # Динамический узел CDNvideo
+aut04.lowlatency.cloud                      # Низколатентный хостинг-узел
+de12.abvpn.ru                               # VPN-узел ABVPN (Германия)
+de18.abvpn.net                              # VPN-узел ABVPN (Германия, .net)
+kilo.ai                                     # AI-сервис (не относится к VPN)
+lt03.abvpn.net                              # VPN-узел ABVPN (Литва)
+nl29.abvpn.net                              # VPN-узел ABVPN (Нидерланды)
+ru09.abvpn.net                              # VPN-узел ABVPN (Россия, .net)
+ru13.theabvp.org                            # VPN-узел ABVPN (legacy домен)
+ru25.tcpdoor.net                            # Узел туннелирования TCP
+ru26.abvpn.ru                               # VPN-узел ABVPN (Россия)
+ru37.tcpdoor.net                            # Узел туннелирования TCP
+ru41.theabvp.org                            # VPN-узел ABVPN (legacy домен)
+ru50.theabvp.org                            # VPN-узел ABVPN (legacy домен)
+ru57.abvpn.net                              # VPN-узел ABVPN (Россия, .net)
+ru71.tcpdoor.net                            # Узел туннелирования TCP
+usa04.abvpn.net                             # VPN-узел ABVPN (США)
+xray.abvpn.ru                               # Точка входа Xray-core для ABVPN
 
-# --- VPN / ABVPN (core) ---
-kilo.ai
-xray.abvpn.ru
-ru26.abvpn.ru
-de12.abvpn.ru
-ru09.abvpn.net
-ru57.abvpn.net
-nl29.abvpn.net
-lt03.abvpn.net
-de18.abvpn.net
-usa04.abvpn.net
-ru13.theabvp.org
-ru41.theabvp.org
-ru50.theabvp.org
-ru25.tcpdoor.net
-ru37.tcpdoor.net
-ru71.tcpdoor.net
-0ru86.tcpnet.fun
-aut04.lowlatency.cloud
-5jtchkrg1q.a.trbcdn.net
+# =============================================================================
+# DNS / infrastructure
+# =============================================================================
+family.adguard-dns.com                      # Семейный DNS AdGuard с фильтрацией
+one.one.one.one                             # Публичный DNS Cloudflare (1.1.1.1)
 
-# --- DNS / infrastructure ---
-one.one.one.one
-family.adguard-dns.com
+# =============================================================================
+# Yandex
+# =============================================================================
+frontend.vh.yandex.ru                       # Frontend виртуальных хостов Яндекса
+maps.yastatic.net                           # Статика Яндекс.Карт
+push.yandex.ru                              # Сервис push-уведомлений Яндекса
+yastatic.net                                # Основной CDN для статики Яндекса
 
-# --- Yandex ---
-push.yandex.ru
-frontend.vh.yandex.ru
-maps.yastatic.net
-yastatic.net
+# =============================================================================
+# Other
+# =============================================================================
+aoostar.com                                 # Магазин электроники и мини-ПК
+api.mobile.pc.kvado.ru                      # API облачного гейминга KVADO
+crl.microsoft.com                           # Список отозванных сертификатов Microsoft
+fivepost.ru                                 # Сервис доставки и постаматов 5Post
+hd.kinopoisk.ru                             # Видеостриминг Кинопоиска
+keeneticmom.netcraze.link                   # DDNS-домен для роутеров Keenetic
+lvgl.io                                     # Документация графической библиотеки LVGL
+media.mamba.ru                              # Медиа-контент сайта Mamba
+nnmstatic.win                               # Статика/зеркало форума NNM-Club
+o2.mail.ru                                  # Файловый хостинг Облако Mail.ru
+st.aliexpress.ru                            # Статика AliExpress Россия
+static.wmbcdn.com                           # CDN для веб-виджетов и медиа
+translate.google.com                        # API Google Translate
+www.mamba.ru                                # Сайт знакомств Mamba
+www.pspx.ru                                 # Портал PSPX (игры и эмуляция)
+wowslegends.com                             # Официальный домен World of Warships Legends
 
-# --- Other ---
-translate.google.com
-wowslegends.com
-hd.kinopoisk.ru
-www.mamba.ru
-media.mamba.ru
-static.wmbcdn.com
-aoostar.com
-nnmstatic.win
-o2.mail.ru
-api.mobile.pc.kvado.ru
-fivepost.ru
-keeneticmom.netcraze.link
-st.aliexpress.ru
-www.pspx.ru
-lvgl.io
-crl.microsoft.com
+# =============================================================================
+# neural networks
+# =============================================================================
 
-# --- neural networks ---
-opencode.ai
-agentskills.io
-nanaimage.ai
-skills.sh
-api.workos.com
-signin.ollama.com
-# -- z.ai GLM --
-chat.z.ai
-docs.z.ai
-# -- qwen.ai --
-ga-bp1aognb8xq6akjh9r3do.aliyunga0018.com
-portal.qwen.ai
-g.alicdn.com
-d.alicdn.com
-img.alicdn.com
-aplus.qwen.ai
-ss.qwen.ai
-alidt.alicdn.com
-assets.alicdn.com
-at.alicdn.com
-o.alicdn.com
+# ----------------------------------------
+# standalone AI services
+# ----------------------------------------
+agentskills.io                              # Платформа AI-агентов и навыков
+api.workos.com                              # Auth API WorkOS для SaaS-сервисов
+nanaimage.ai                                # AI-генератор изображений
+opencode.ai                                 # AI-ассистент для написания кода
+signin.ollama.com                           # Авторизация облачного сервиса Ollama
+skills.sh                                   # Платформа AI-навыков (назначение требует уточнения)
+
+# ----------------------------------------
+# z.ai GLM
+# ----------------------------------------
+chat.z.ai                                   # Веб-интерфейс чата GLM (Zhipu AI)
+docs.z.ai                                   # Документация API GLM
+
+# ----------------------------------------
+# qwen.ai
+# ----------------------------------------
+alidt.alicdn.com                            # A/B-тестирование и эксперименты Alibaba
+aplus.qwen.ai                               # Аналитика и CDN для Qwen
+assets.alicdn.com                           # Общие статические ресурсы Alibaba CDN
+at.alicdn.com                               # Хостинг иконок и векторных ассетов
+d.alicdn.com                                # Динамический контент Alibaba CDN
+g.alicdn.com                                # Статика и изображения Alibaba CDN
+ga-bp1aognb8xq6akjh9r3do.aliyunga0018.com   # Инстанс Alibaba Cloud для Qwen
+img.alicdn.com                              # CDN для изображений Alibaba
+o.alicdn.com                                # Оптимизированный контент Alibaba CDN
+portal.qwen.ai                              # Веб-портал Qwen
+ss.qwen.ai                                  # Статика и вспомогательные сервисы Qwen
