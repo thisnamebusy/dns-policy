@@ -1,80 +1,91 @@
-# --- kinopoisk / api ---
-kinopoiskapiunofficial.tech
-kinopoisk.userecho.com
+# =============================================================================
+# IPTV / Streaming Services
+# =============================================================================
+# ----------------------------------------
+# team.ga
+# ----------------------------------------
+2.team.ga                                   # IPTV-узел team.ga
+3.team.ga                                   # IPTV-узел team.ga
+4.team.ga                                   # IPTV-узел team.ga
+5.team.ga                                   # IPTV-узел team.ga
+6.team.ga                                   # IPTV-узел team.ga
+7.team.ga                                   # IPTV-узел team.ga
+11.team.ga                                  # IPTV-узел team.ga
+12.team.ga                                  # IPTV-узел team.ga
+13.team.ga                                  # IPTV-узел team.ga
+14.team.ga                                  # IPTV-узел team.ga
+15.team.ga                                  # IPTV-узел team.ga
+16.team.ga                                  # IPTV-узел team.ga
+hk.team.ga                                  # IPTV-узел team.ga (Гонконг)
+nl.team.ga                                  # IPTV-узел team.ga (Нидерланды)
+ru.team.ga                                  # IPTV-узел team.ga (Россия)
+ru2.team.ga                                 # IPTV-узел team.ga (Россия)
+ru3.team.ga                                 # IPTV-узел team.ga (Россия)
 
-# --- team.ga
-ru.team.ga
-ru2.team.ga
-ru3.team.ga
-nl.team.ga
-hk.team.ga
-2.team.ga
-3.team.ga
-4.team.ga
-5.team.ga
-6.team.ga
-7.team.ga
-11.team.ga
-12.team.ga
-13.team.ga
-14.team.ga
-15.team.ga
-16.team.ga
+# ----------------------------------------
+# tvtm.one
+# ----------------------------------------
+2.tvtm.one                                  # IPTV-узел tvtm.one
+3.tvtm.one                                  # IPTV-узел tvtm.one
+4.tvtm.one                                  # IPTV-узел tvtm.one
+5.tvtm.one                                  # IPTV-узел tvtm.one
+6.tvtm.one                                  # IPTV-узел tvtm.one
+7.tvtm.one                                  # IPTV-узел tvtm.one
+8.tvtm.one                                  # IPTV-узел tvtm.one
+9.tvtm.one                                  # IPTV-узел tvtm.one
+10.tvtm.one                                 # IPTV-узел tvtm.one
+11.tvtm.one                                 # IPTV-узел tvtm.one
+12.tvtm.one                                 # IPTV-узел tvtm.one
+13.tvtm.one                                 # IPTV-узел tvtm.one
+14.tvtm.one                                 # IPTV-узел tvtm.one
+15.tvtm.one                                 # IPTV-узел tvtm.one
+16.tvtm.one                                 # IPTV-узел tvtm.one
+hk.tvtm.one                                 # IPTV-узел tvtm.one (Гонконг)
+nl.tvtm.one                                 # IPTV-узел tvtm.one (Нидерланды)
+nl2.tvtm.one                                # IPTV-узел tvtm.one (Нидерланды)
+pl.tvtm.one                                 # IPTV-узел tvtm.one (Польша)
+ru.tvtm.one                                 # IPTV-узел tvtm.one (Россия)
+ru2.tvtm.one                                # IPTV-узел tvtm.one (Россия)
+ru3.tvtm.one                                # IPTV-узел tvtm.one (Россия)
+ru4.tvtm.one                                # IPTV-узел tvtm.one (Россия)
+ru5.tvtm.one                                # IPTV-узел tvtm.one (Россия)
+ru6.tvtm.one                                # IPTV-узел tvtm.one (Россия)
+ru7.tvtm.one                                # IPTV-узел tvtm.one (Россия)
+rus.tvtm.one                                # IPTV-узел tvtm.one (Россия)
+tvtm.one                                    # Основной домен IPTV-сервиса tvtm.one
 
-# --- tvtm.one
-tvtm.one
-ru.tvtm.one
-ru2.tvtm.one
-ru3.tvtm.one
-ru4.tvtm.one
-ru5.tvtm.one
-ru6.tvtm.one
-ru7.tvtm.one
-rus.tvtm.one
-nl.tvtm.one
-nl2.tvtm.one
-pl.tvtm.one
-hk.tvtm.one
-2.tvtm.one
-3.tvtm.one
-4.tvtm.one
-5.tvtm.one
-6.tvtm.one
-7.tvtm.one
-8.tvtm.one
-9.tvtm.one
-10.tvtm.one
-11.tvtm.one
-12.tvtm.one
-13.tvtm.one
-14.tvtm.one
-15.tvtm.one
-16.tvtm.one
+# ----------------------------------------
+# tvtm.one (https / port 8080 service records)
+# ----------------------------------------
+_8080._https.10.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.11.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.12.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.13.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.14.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.15.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.16.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.2.tvtm.one                     # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.3.tvtm.one                     # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.4.tvtm.one                     # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.5.tvtm.one                     # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.6.tvtm.one                     # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.7.tvtm.one                     # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.8.tvtm.one                     # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.9.tvtm.one                     # SRV-запись: HTTPS-сервис IPTV на порту 8080
+_8080._https.hk.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Гонконг)
+_8080._https.nl.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Нидерланды)
+_8080._https.nl2.tvtm.one                   # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Нидерланды)
+_8080._https.pl.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Польша)
+_8080._https.ru.tvtm.one                    # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Россия)
+_8080._https.ru2.tvtm.one                   # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Россия)
+_8080._https.ru3.tvtm.one                   # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Россия)
+_8080._https.ru4.tvtm.one                   # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Россия)
+_8080._https.ru5.tvtm.one                   # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Россия)
+_8080._https.ru6.tvtm.one                   # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Россия)
+_8080._https.ru7.tvtm.one                   # SRV-запись: HTTPS-сервис IPTV на порту 8080 (Россия)
 
-# --- tvtm.one (https / port 8080 service records) ---
-_8080._https.ru.tvtm.one
-_8080._https.nl.tvtm.one
-_8080._https.pl.tvtm.one
-_8080._https.hk.tvtm.one
-_8080._https.nl2.tvtm.one
-_8080._https.ru2.tvtm.one
-_8080._https.ru3.tvtm.one
-_8080._https.ru4.tvtm.one
-_8080._https.ru5.tvtm.one
-_8080._https.ru6.tvtm.one
-_8080._https.ru7.tvtm.one
-_8080._https.2.tvtm.one
-_8080._https.3.tvtm.one
-_8080._https.4.tvtm.one
-_8080._https.5.tvtm.one
-_8080._https.6.tvtm.one
-_8080._https.7.tvtm.one
-_8080._https.8.tvtm.one
-_8080._https.9.tvtm.one
-_8080._https.10.tvtm.one
-_8080._https.11.tvtm.one
-_8080._https.12.tvtm.one
-_8080._https.13.tvtm.one
-_8080._https.14.tvtm.one
-_8080._https.15.tvtm.one
-_8080._https.16.tvtm.one
+# =============================================================================
+# kinopoisk / api
+# =============================================================================
+kinopoisk.userecho.com                      # Платформа обратной связи UserEcho для Кинопоиска
+kinopoiskapiunofficial.tech                 # Неофициальный API Кинопоиска (сторонний сервис)
