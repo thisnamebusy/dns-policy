@@ -209,3 +209,46 @@ _8080._https.ru7.tvtm.one                   # SRV-запись: HTTPS-серви
 kinopoisk.userecho.com                      # Платформа обратной связи UserEcho для Кинопоиска
 kinopoiskapiunofficial.tech                 # Неофициальный API Кинопоиска (сторонний сервис)
 
+# =============================================================================
+# PlayStation / Gaming Services
+# =============================================================================
+# ----------------------------------------
+# PS5
+# ----------------------------------------
+508223012e5a5ff19f30a391b2bdadc0.my.2k.com  # CDN для игровых ассетов 2K Games (хешированный поддомен)
+csis-lg.wowslegends.com                     # Сервис поддержки World of Warships Legends
+login-1.wowslegends.com                     # Сервер авторизации WoWs Legends (первичный)
+login-2.wowslegends.com                     # Сервер авторизации WoWs Legends (резервный)
+mafia.2k.com                                # Домен игры Mafia (2K Games)
+promotions.api.2kcoretech.online            # API акций и промо-контента 2K Games
+sso.api.2kcoretech.online                   # API единого входа (SSO) для экосистемы 2K
+vulcan.dl.playstation.net                   # Официальный CDN PlayStation для загрузки контента
+
+# ----------------------------------------
+# PS3
+# ----------------------------------------
+f91991q0.bget.ru                            # Хостинг Bget.ru (возможно, прокси или игровой сервер)
+
+# =============================================================================
+# Torrent Trackers
+# =============================================================================
+
+# ----------------------------------------
+# tor4me / torrent4me / tor2me mirrors
+# ----------------------------------------
+tr0.tor4me.info                             # BitTorrent-трекер (зеркало tor4me)
+tr1.tor2me.info                             # BitTorrent-трекер (зеркало tor2me)
+tr1.tor4me.info                             # BitTorrent-трекер (зеркало tor4me)
+tr1.torrent4me.com                          # BitTorrent-трекер (основной домен torrent4me)
+tr2.tor2me.info                             # BitTorrent-трекер (зеркало tor2me)
+tr2.tor4me.info                             # BitTorrent-трекер (зеркало tor4me)
+tr2.torrent4me.com                          # BitTorrent-трекер (основной домен torrent4me)
+tr3.tor2me.info                             # BitTorrent-трекер (зеркало tor2me)
+tr3.tor4me.info                             # BitTorrent-трекер (зеркало tor4me)
+tr3.torrent4me.com                          # BitTorrent-трекер (основной домен torrent4me)
+tr4.tor2me.info                             # BitTorrent-трекер (зеркало tor2me)
+tr4.tor4me.info                             # BitTorrent-трекер (зеркало tor4me)
+tr4.torrent4me.com                          # BitTorrent-трекер (основной домен torrent4me)
+tr5.tor2me.info                             # BitTorrent-трекер (зеркало tor2me)
+tr5.tor4me.info                             # BitTorrent-трекер (зеркало tor4me)
+tr5.torrent4me.com                          # BitTorrent-трекер (основной домен torrent4me)
