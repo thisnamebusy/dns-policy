@@ -96,6 +96,7 @@ nanaimage.ai                                # AI-генератор изобра
 opencode.ai                                 # AI-ассистент для написания кода
 signin.ollama.com                           # Авторизация облачного сервиса Ollama
 skills.sh                                   # Платформа AI-навыков (назначение требует уточнения)
+modelcontextprotocol.io                     #
 
 # ----------------------------------------
 # z.ai GLM
