@@ -61,7 +61,7 @@ one.one.one.one                             # Публичный DNS Cloudflare 
 frontend.vh.yandex.ru                       # Frontend виртуальных хостов Яндекса
 maps.yastatic.net                           # Статика Яндекс.Карт
 push.yandex.ru                              # Сервис push-уведомлений Яндекса
-yastatic.net                                # Основной CDN для статики Яндекса
+#yastatic.net                                # Основной CDN для статики Яндекса
 
 # ======================================================================================================
 # Other
@@ -82,6 +82,7 @@ translate.google.com                        # API Google Translate
 www.mamba.ru                                # Сайт знакомств Mamba
 www.pspx.ru                                 # Портал PSPX (игры и эмуляция)
 wowslegends.com                             # Официальный домен World of Warships Legends
+main.vscode-cdn.net                         # Используется для доставки обновлений редактора, расширений, иконок и других статических ресурсов
 
 # ======================================================================================================
 # neural networks
