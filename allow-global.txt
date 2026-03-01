@@ -61,7 +61,7 @@ one.one.one.one                             # Публичный DNS Cloudflare 
 frontend.vh.yandex.ru                       # Frontend виртуальных хостов Яндекса
 maps.yastatic.net                           # Статика Яндекс.Карт
 push.yandex.ru                              # Сервис push-уведомлений Яндекса
-#yastatic.net                                # Основной CDN для статики Яндекса
+yastatic.net                                # Основной CDN для статики Яндекса
 
 # ======================================================================================================
 # Other
