@@ -25,6 +25,7 @@ settings-service.social-solutions.ru        # Сервис настроек ча
 t-j.ru                                      # Домен Т-Ж (Тинькофф Журнал)
 unic-cdn-prod.cdn-tinkoff.ru                # Унифицированный продакшн CDN
 www.cdn-tinkoff.ru                          # WWW-шлюз CDN
+invest-terminal-static.t-static.ru          #
 
 # ======================================================================================================
 # VPN / ABVPN (core)
