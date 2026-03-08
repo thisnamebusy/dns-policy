@@ -35,7 +35,6 @@ invest-terminal-static.t-static.ru          #
 aut04.lowlatency.cloud                      # Низколатентный хостинг-узел
 de12.abvpn.ru                               # VPN-узел ABVPN (Германия)
 de18.abvpn.net                              # VPN-узел ABVPN (Германия, .net)
-kilo.ai                                     # AI-сервис (не относится к VPN)
 lt03.abvpn.net                              # VPN-узел ABVPN (Литва)
 nl29.abvpn.net                              # VPN-узел ABVPN (Нидерланды)
 ru09.abvpn.net                              # VPN-узел ABVPN (Россия, .net)
@@ -48,6 +47,7 @@ ru50.theabvp.org                            # VPN-узел ABVPN (legacy дом�
 ru57.abvpn.net                              # VPN-узел ABVPN (Россия, .net)
 ru71.tcpdoor.net                            # Узел туннелирования TCP
 usa04.abvpn.net                             # VPN-узел ABVPN (США)
+usa24.tcpnet.fun                            # VPN-узел ABVPN (США)
 xray.abvpn.ru                               # Точка входа Xray-core для ABVPN
 
 # ======================================================================================================
@@ -103,6 +103,7 @@ opencode.ai                                 # AI-ассистент для на�
 signin.ollama.com                           # Авторизация облачного сервиса Ollama
 skills.sh                                   # Платформа AI-навыков (назначение требует уточнения)
 modelcontextprotocol.io                     #
+kilo.ai                                     # AI-сервис
 
 # ----------------------------------------
 # z.ai GLM
