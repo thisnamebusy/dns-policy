@@ -26,6 +26,7 @@ t-j.ru                                      # Домен Т-Ж (Тинькофф
 unic-cdn-prod.cdn-tinkoff.ru                # Унифицированный продакшн CDN
 www.cdn-tinkoff.ru                          # WWW-шлюз CDN
 invest-terminal-static.t-static.ru          #
+sso-forms-prod.t-static.ru                  #
 
 # ======================================================================================================
 # VPN / ABVPN (core)
