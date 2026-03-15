@@ -126,6 +126,7 @@ img.alicdn.com                              # CDN для изображений 
 o.alicdn.com                                # Оптимизированный контент Alibaba CDN
 portal.qwen.ai                              # Веб-портал Qwen
 ss.qwen.ai                                  # Статика и вспомогательные сервисы Qwen
+clawhub.com
 
 # ======================================================================================================
 # IPTV / Streaming Services
