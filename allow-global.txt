@@ -273,3 +273,5 @@ tr5.torrent4me.com                          # BitTorrent-трекер (осно�
 # Cloudflare
 # ======================================================================================================
 h2.cftunnel.com
+cftunnel.com
+quic.cftunnel.com
