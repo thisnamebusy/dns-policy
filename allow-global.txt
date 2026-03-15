@@ -89,6 +89,7 @@ main.vscode-cdn.net                         # Используется для д
 code.visualstudio.com                       #
 hostkey.ru                                  #
 invapi.hostkey.ru                           #
+dl.cloudsmith.io
 
 
 # ======================================================================================================
