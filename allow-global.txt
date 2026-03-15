@@ -133,6 +133,7 @@ ss.qwen.ai                                  # Статика и вспомога
 clawhub.com
 clawhub.ai
 rules1.clearurls.xyz
+docs.openclaw.ai
 
 # ======================================================================================================
 # IPTV / Streaming Services
