@@ -90,6 +90,7 @@ code.visualstudio.com                       #
 hostkey.ru                                  #
 invapi.hostkey.ru                           #
 dl.cloudsmith.io
+instagram.com
 
 
 # ======================================================================================================
