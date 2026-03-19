@@ -92,8 +92,9 @@ wowslegends.com                             # Официальный сайт Wo
 main.vscode-cdn.net                         # Основной CDN Visual Studio Code для web‑ресурсов, sourcemaps и extension metadata
 code.visualstudio.com                       # Официальный сайт и документация Visual Studio Code
 hostkey.ru                                  # Официальный сайт хостинг‑провайдера HOSTKEY
-#invapi.hostkey.ru                           # Панель управления и API HOSTKEY для серверов и услуг
+invapi.hostkey.ru                           # Панель управления и API HOSTKEY для серверов и услуг
 dl.cloudsmith.io                            # CDN/домен загрузки пакетов и артефактов Cloudsmith
+
 
 AI / agents / model platforms / developer protocols
 ---------------------------------------------------
