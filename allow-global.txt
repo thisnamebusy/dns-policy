@@ -94,6 +94,7 @@ code.visualstudio.com                       # Официальный сайт и
 hostkey.ru                                  # Официальный сайт хостинг‑провайдера HOSTKEY
 invapi.hostkey.ru                           # Панель управления и API HOSTKEY для серверов и услуг
 dl.cloudsmith.io                            # CDN/домен загрузки пакетов и артефактов Cloudsmith
+community-scripts.org
 
 
 AI / agents / model platforms / developer protocols
