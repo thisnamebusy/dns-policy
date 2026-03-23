@@ -130,6 +130,7 @@ Search
 ----------------
 www.tavily.com
 tavily.com
+auth.tavily.com
 app.tavily.com
 docs.tavily.com
 
