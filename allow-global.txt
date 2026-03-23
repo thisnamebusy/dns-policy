@@ -128,7 +128,7 @@ docs.openclaw.ai                            # Официальная докум�
 
 Search
 ----------------
-tavily.com
+www.tavily.com
 
 IPTV / streaming infrastructure
 -------------------------------
