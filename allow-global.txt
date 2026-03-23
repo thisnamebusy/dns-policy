@@ -126,6 +126,10 @@ clawhub.ai                                  # Основной публичны�
 rules1.clearurls.xyz                        # Хост каталога правил ClearURLs
 docs.openclaw.ai                            # Официальная документация OpenClaw
 
+Search
+----------------
+tavily.com
+
 IPTV / streaming infrastructure
 -------------------------------
 
