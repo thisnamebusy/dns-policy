@@ -130,6 +130,7 @@ Search
 ----------------
 www.tavily.com
 tavily.com
+app.tavily.com
 
 IPTV / streaming infrastructure
 -------------------------------
