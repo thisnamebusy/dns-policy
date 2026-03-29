@@ -244,3 +244,4 @@ tr4.torrent4me.com                          # BitTorrent‑трекер torrent4
 tr5.tor2me.info                             # BitTorrent‑трекер tor2me (узел 5)
 tr5.tor4me.info                             # BitTorrent‑трекер tor4me (узел 5)
 tr5.torrent4me.com                          # BitTorrent‑трекер torrent4me.com (узел 5)
+www.pirateproxy-bay.com
