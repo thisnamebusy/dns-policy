@@ -95,6 +95,7 @@ hostkey.ru                                  # Официальный сайт х
 invapi.hostkey.ru                           # Панель управления и API HOSTKEY для серверов и услуг
 dl.cloudsmith.io                            # CDN/домен загрузки пакетов и артефактов Cloudsmith
 community-scripts.org
+cs.avito.ru
 
 
 AI / agents / model platforms / developer protocols
