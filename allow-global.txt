@@ -71,6 +71,7 @@ dns.opendns.com
 doh.cleanbrowsing.org/doh/security-filter
 security-filter-dns.cleanbrowsing.org
 dns.adguard-dns.com:443/dns-query
+adguard-dns.com
 
 
 Yandex ecosystem
