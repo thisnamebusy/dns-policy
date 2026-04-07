@@ -59,10 +59,15 @@ one.one.one.one                             # Хостнейм DoT/DoH для п
 h2.cftunnel.com                             # Cloudflare Tunnel endpoint для HTTP/2 по порту 7844
 cftunnel.com                                # Основной hostname Cloudflare Tunnel для cloudflared
 quic.cftunnel.com                           # Cloudflare Tunnel endpoint для QUIC/UDP по порту 7844
-dns.quad9.net
+security.cloudflare-dns.com/dns-query
 security.cloudflare-dns.com
-doh.opendns.com
+dns.quad9.net/dns-query
+dns.quad9.net
+dns.adguard-dns.com/dns-query
 dns.adguard-dns.com
+doh.opendns.com/dns-query
+dns.opendns.com
+
 
 Yandex ecosystem
 ----------------
