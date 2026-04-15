@@ -148,6 +148,7 @@ docs.continue.dev
 IPTV / streaming infrastructure
 -------------------------------
 
+rus.hls.ga
 2.team.ga                                   # Номерной IPTV‑узел сети team.ga (узел 2)
 3.team.ga                                   # Номерной IPTV‑узел сети team.ga (узел 3)
 4.team.ga                                   # Номерной IPTV‑узел сети team.ga (узел 4)
