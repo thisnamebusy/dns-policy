@@ -150,6 +150,21 @@ IPTV / streaming infrastructure
 -------------------------------
 
 rus.hls.ga
+2.hls.ga
+3.hls.ga
+4.hls.ga
+5.hls.ga
+6.hls.ga
+7.hls.ga
+8.hls.ga
+9.hls.ga
+14.hls.ga
+15.hls.ga
+16.hls.ga
+17.hls.ga
+pl.hls.ga
+nl2.hls.ga
+hk.hls.ga
 ru7.hls.ga
 2.team.ga                                   # Номерной IPTV‑узел сети team.ga (узел 2)
 3.team.ga                                   # Номерной IPTV‑узел сети team.ga (узел 3)
