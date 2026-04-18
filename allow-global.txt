@@ -158,6 +158,9 @@ rus.hls.ga
 7.hls.ga
 8.hls.ga
 9.hls.ga
+10.hls.ga
+11.hls.ga
+12.hls.ga
 14.hls.ga
 15.hls.ga
 16.hls.ga
