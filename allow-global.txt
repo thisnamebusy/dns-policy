@@ -150,6 +150,9 @@ IPTV / streaming infrastructure
 -------------------------------
 
 rus.hls.ga
+ru.hls.ga
+ru2.hls.ga
+ru3.hls.ga
 2.hls.ga
 3.hls.ga
 4.hls.ga
