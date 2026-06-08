@@ -50,6 +50,7 @@ ru71.tcpdoor.net                            # Служебный TCP‑тунн�
 usa04.abvpn.net                             # Региональный VPN‑узел AB VPN в США
 usa24.tcpnet.fun                            # Служебный TCP‑транзитный узел AB VPN в США
 xray.abvpn.ru                               # Точка подключения Xray/VLESS инфраструктуры AB VPN
+weather.yastatic.net
 
 DNS / secure resolvers / connectivity
 -------------------------------------
