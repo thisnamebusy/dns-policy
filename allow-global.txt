@@ -86,11 +86,8 @@ Social networks / dating
 ------------------------
 
 api.twitter.com                                 # Twitter API
-badoo.com                                       # Badoo
 edge-chat.instagram.com                         # Instagram chat
 gateway.instagram.com                           # Instagram gateway
-mamba.ru                                        # Mamba
-media.mamba.ru                                  # Mamba media
 scontent-ams2-1.cdninstagram.com                # Instagram CDN
 scontent-ams4-1.cdninstagram.com                # Instagram CDN
 scontent-dfw5-1.cdninstagram.com                # Instagram CDN
@@ -103,11 +100,8 @@ scontent-fra5-2.cdninstagram.com                # Instagram CDN
 scontent.cdninstagram.com                       # Instagram CDN
 static.cdninstagram.com                         # Instagram static
 static.wmbcdn.com                               # Mamba CDN
-tinder.com                                      # Tinder
 web-chat-e2ee.instagram.com                     # Instagram E2EE chat
 www.instagram.com                               # Instagram
-www.mamba.ru                                    # Mamba
-www.tinder.com                                  # Tinder
 z-p42-instagram.c10r.instagram.com              # Instagram service
 
 Media / commerce
