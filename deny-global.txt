@@ -1,24 +1,21 @@
-# ================================================================================================
-# Yandex Services
-# ================================================================================================
-# ----------------------------------------
-# Core services / CDN
-# ----------------------------------------
-api.start.ru                                  # 
-partners.ott.yandex.ru                        # API партнёрской интеграции Яндекс.ТВ / OTT
+block-global
+============
 
-# ----------------------------------------
-# Advertising / Analytics
-# ----------------------------------------
-ads.adfox.ru                                  # Рекламная платформа AdFox (входит в экосистему Яндекса)
-mc.yandex.ru                                  # Яндекс.Метрика (сбор веб-аналитики и телеметрии)
+Yandex services
+---------------
 
-# ----------------------------------------
-# DNS over HTTPS / TLS (DoH / DoT)
-# ----------------------------------------
-https://common.dot.dns.yandex.net/dns-query   # DoH-эндпоинт: базовый DNS Яндекса (без фильтрации)
-https://family.dot.dns.yandex.net/dns-query   # DoH-эндпоинт: семейный DNS с фильтрацией 18+
-https://safe.dot.dns.yandex.net/dns-query     # DoH-эндпоинт: безопасный DNS с блокировкой угроз
-tls://common.dot.dns.yandex.net               # DoT-эндпоинт: базовый DNS Яндекса (DNS-over-TLS)
-tls://family.dot.dns.yandex.net               # DoT-эндпоинт: семейный DNS с фильтрацией 18+
-tls://safe.dot.dns.yandex.net                 # DoT-эндпоинт: безопасный DNS с блокировкой угроз
+api.start.ru                         # START API
+partners.ott.yandex.ru               # Yandex TV / OTT
+
+Yandex advertising / analytics
+------------------------------
+
+ads.adfox.ru                         # AdFox advertising
+mc.yandex.ru                         # Yandex Metrica
+
+Yandex secure DNS
+-----------------
+
+common.dot.dns.yandex.net            # Yandex DNS
+family.dot.dns.yandex.net            # Yandex Family DNS
+safe.dot.dns.yandex.net              # Yandex Safe DNS
