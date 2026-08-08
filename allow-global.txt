@@ -278,6 +278,7 @@ sso.api.2kcoretech.online                       # 2K SSO
 vulcan.dl.playstation.net                       # PlayStation CDN
 wowslegends.com                                 # WoWS Legends
 www.pspx.ru                                     # PSPX forum
+image.api.playstation.com
 
 Torrent trackers
 ----------------
