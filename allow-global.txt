@@ -321,3 +321,4 @@ tr5.tor2me.info                                 # Tracker tor2me.info #5
 tr5.tor4me.info                                 # Tracker tor4me.info #5
 tr5.torrent4me.com                              # Tracker torrent4me.com #5
 www.pirateproxy-bay.com                         # Torrent tracker
+t-ru.org                                        # Torrent tracker
