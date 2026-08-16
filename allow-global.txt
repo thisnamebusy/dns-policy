@@ -31,6 +31,11 @@ t-j.ru                                          # Т—Ж
 unic-cdn-prod.cdn-tinkoff.ru                    # T-Bank CDN
 www.cdn-tinkoff.ru                              # T-Bank CDN
 
+Finance / exchanges
+-------------------
+
+flowers.moex.com                                # MOEX service
+
 VPN / proxy / tunnels
 ---------------------
 
@@ -111,6 +116,7 @@ fivepost.ru                                     # 5Post
 hd.kinopoisk.ru                                 # Kinopoisk HD
 kinopoisk.userecho.com                          # Kinopoisk feedback
 kinopoiskapiunofficial.tech                     # Kinopoisk unofficial API
+st.aestatic.net                                 # AliExpress CDN
 st.aliexpress.ru                                # AliExpress static
 translate.google.com                            # Google Translate
 
@@ -153,6 +159,7 @@ kilo.ai                                         # Kilo
 main.vscode-cdn.net                             # VS Code CDN
 modelcontextprotocol.io                         # MCP
 nanaimage.ai                                    # Nanaimage
+nodepay.ai                                      # Nodepay
 o.alicdn.com                                    # Alibaba/Qwen CDN
 opencode.ai                                     # Opencode
 portal.qwen.ai                                  # Qwen portal
@@ -267,30 +274,35 @@ csis-lg.wowslegends.com                         # WoWS Legends
 entitlements.api.2kcoretech.online              # 2K entitlements
 f91991q0.bget.ru                                # Beget host
 image.api.np.km.playstation.net                 # PlayStation images
+image.api.playstation.com                       # PlayStation images
 login-1.wowslegends.com                         # WoWS Legends
 login-2.wowslegends.com                         # WoWS Legends
 mafia.2k.com                                    # Mafia / 2K
 pipes-prod-glutton.public.aws.demonware.net     # Demonware game service
-promotions-ew-assets.2kcoretech.online          # 2K promotions
 promotions.api.2kcoretech.online                # 2K promotions
+promotions-ew-assets.2kcoretech.online          # 2K promotions
 romspure.cc                                     # ROM archive
 sso.api.2kcoretech.online                       # 2K SSO
+stratege.ru                                     # Gaming portal
 vulcan.dl.playstation.net                       # PlayStation CDN
 wowslegends.com                                 # WoWS Legends
 www.pspx.ru                                     # PSPX forum
-image.api.playstation.com
 
 Torrent trackers
 ----------------
 
 apibay.org                                      # Torrent tracker
 bt.booktracker.work                             # Booktracker
+forum.kinozal.guru                              # Kinozal forum
 h4.trakx.nibba.trade                            # BitTorrent tracker
+kinozal.guru                                    # Kinozal
+kinozal.jumpingcrab.com                         # Kinozal mirror
 nnmstatic.win                                   # NNM-Club static
 piratebayproxy.net                              # Torrent tracker
 pirates-forum.org                               # Torrent tracker
 thepiratebay.org                                # Torrent tracker
 torrindex.net                                   # Torrent tracker
+torrent-games.games                             # Torrent games
 tr0.tor4me.info                                 # Tracker tor4me.info #0
 tr0.torrent4me.com                              # Tracker torrent4me.com #0
 tr1.tor2me.info                                 # Tracker tor2me.info #1
