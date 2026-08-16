@@ -293,9 +293,7 @@ Torrent trackers
 
 apibay.org                                      # Torrent tracker
 bt.booktracker.work                             # Booktracker
-forum.kinozal.guru                              # Kinozal forum
 h4.trakx.nibba.trade                            # BitTorrent tracker
-kinozal.guru                                    # Kinozal
 kinozal.jumpingcrab.com                         # Kinozal mirror
 nnmstatic.win                                   # NNM-Club static
 piratebayproxy.net                              # Torrent tracker
