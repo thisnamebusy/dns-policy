@@ -19,3 +19,7 @@ Yandex secure DNS
 common.dot.dns.yandex.net            # Yandex DNS
 family.dot.dns.yandex.net            # Yandex Family DNS
 safe.dot.dns.yandex.net              # Yandex Safe DNS
+
+
+statics.kimi.ai
+fd.api.iris.microsoft.com
