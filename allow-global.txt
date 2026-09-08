@@ -325,3 +325,4 @@ cxema.su
 onetv-srt.com
 ixbt.games
 media.ixbt.games
+media.ixbt.com
