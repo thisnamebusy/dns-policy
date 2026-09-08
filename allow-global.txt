@@ -323,3 +323,5 @@ t-ru.org                                        # Torrent tracker
 
 cxema.su
 onetv-srt.com
+ixbt.games
+media.ixbt.games
