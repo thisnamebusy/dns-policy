@@ -1,330 +1,329 @@
-allow-global
-============
+# allow-global
+# ============
 
-T-Bank / Tinkoff
-----------------
+# T-Bank / Tinkoff
+# ----------------
 
-acdn.tinkoff.ru                                 # T-Bank CDN
-business.cdn-tinkoff.ru                         # T-Bank CDN
-business.t-static.ru                            # T-Bank CDN
-cdn.tbank.ru                                    # T-Bank CDN
-chat.social-solutions.ru                        # T-Bank Pulse
-chatbackend.social-solutions.ru                 # T-Bank Pulse
-email.cdn-tinkoff.ru                            # T-Bank CDN
-error-hub.tbank.ru                              # T-Bank telemetry
-error-hub.tinkoff.ru                            # T-Bank telemetry
-fallback.cdn-tinkoff.ru                         # T-Bank CDN
-imgproxy.cdn-tinkoff.ru                         # T-Bank CDN
-invest-brands.cdn-tinkoff.ru                    # T-Investments
-invest-frontend.cdn-tinkoff.ru                  # T-Investments
-invest-terminal-static.t-static.ru              # T-Investments
-invest-tracking-strategy.cdn-tinkoff.ru         # T-Investments
-invest-wmadm-feed-bucket.cdn-tinkoff.ru         # T-Investments
-invest-wmadm-widgets-bucket.cdn-tinkoff.ru      # T-Investments
-mobile-bank.cdn-tinkoff.ru                      # T-Bank CDN
-pulse-image-avatar.cdn-tinkoff.ru               # T-Bank Pulse CDN
-pulse-image-post.cdn-tinkoff.ru                 # T-Bank Pulse CDN
-pulse-navigation-image.cdn-tinkoff.ru           # T-Bank Pulse CDN
-settings-service.social-solutions.ru            # T-Bank Pulse
-sso-forms-prod.t-static.ru                      # T-ID / SSO
-t-j.ru                                          # Т—Ж
-unic-cdn-prod.cdn-tinkoff.ru                    # T-Bank CDN
-www.cdn-tinkoff.ru                              # T-Bank CDN
-opis-cdn.tinkoffjournal.ru
-nuc-cdp.voskhod.ru
+acdn.tinkoff.ru                              # Файлы сервисов Т-Банка
+business.cdn-tinkoff.ru                      # Файлы Т-Бизнеса
+business.t-static.ru                         # Файлы интерфейса Т-Бизнеса
+cdn.tbank.ru                                 # Файлы и изображения Т-Банка
+email.cdn-tinkoff.ru                         # Ресурсы писем Т-Банка
+error-hub.tbank.ru                           # Отправка отчётов об ошибках Т-Банка
+error-hub.tinkoff.ru                         # Вероятно, прежний сборщик ошибок Т-Банка
+fallback.cdn-tinkoff.ru                      # Вероятно, резервный сервер файлов Т-Банка
+imgproxy.cdn-tinkoff.ru                      # Загрузка и обработка изображений Т-Банка
+invest-brands.cdn-tinkoff.ru                 # Логотипы и изображения Т-Инвестиций
+invest-frontend.cdn-tinkoff.ru               # Файлы интерфейса Т-Инвестиций
+invest-terminal-static.t-static.ru           # Файлы терминала Т-Инвестиций
+invest-tracking-strategy.cdn-tinkoff.ru      # Вероятно, файлы стратегий автоследования
+invest-wmadm-feed-bucket.cdn-tinkoff.ru      # Вероятно, материалы ленты Т-Инвестиций
+invest-wmadm-widgets-bucket.cdn-tinkoff.ru   # Вероятно, файлы виджетов Т-Инвестиций
+mobile-bank.cdn-tinkoff.ru                   # Файлы мобильного банка
+opis-cdn.tinkoffjournal.ru                   # Изображения и документы Т—Ж
+pulse-image-avatar.cdn-tinkoff.ru            # Аватары пользователей Пульса
+pulse-image-post.cdn-tinkoff.ru              # Изображения публикаций Пульса
+pulse-navigation-image.cdn-tinkoff.ru        # Изображения разделов Пульса
+sso-forms-prod.t-static.ru                   # Формы входа через Т-ID
+t-j.ru                                       # Т—Ж: статьи и обсуждения
+unic-cdn-prod.cdn-tinkoff.ru                 # Файлы сервисов Т-Банка
+www.cdn-tinkoff.ru                           # Файлы сервисов Т-Банка
 
-Finance / exchanges
--------------------
+# Finance / exchanges
+# -------------------
 
-flowers.moex.com                                # MOEX service
+flowers.moex.com                             # Московская биржа
 
-VPN / proxy / tunnels
----------------------
+# VPN / proxy / tunnels
+# ---------------------
 
-0ru86.tcpnet.fun                                # AB VPN TCP transit
-5jtchkrg1q.a.trbcdn.net                         # CDNvideo edge
-aut04.lowlatency.cloud                          # Low-latency edge
-de12.abvpn.ru                                   # AB VPN
-de18.abvpn.net                                  # AB VPN
-lt03.abvpn.net                                  # AB VPN
-nl29.abvpn.net                                  # AB VPN
-ru09.abvpn.net                                  # AB VPN
-ru13.theabvp.org                                # AB VPN
-ru25.tcpdoor.net                                # AB VPN TCP tunnel
-ru26.abvpn.ru                                   # AB VPN
-ru37.tcpdoor.net                                # AB VPN TCP tunnel
-ru41.theabvp.org                                # AB VPN
-ru50.theabvp.org                                # AB VPN
-ru57.abvpn.net                                  # AB VPN
-ru71.tcpdoor.net                                # AB VPN TCP tunnel
-usa04.abvpn.net                                 # AB VPN США
-usa24.tcpnet.fun                                # AB VPN TCP transit
-xray.abvpn.ru                                   # AB VPN Xray/VLESS
+0ru86.tcpnet.fun                             # Предполагаемый узел AB VPN
+aut04.lowlatency.cloud                       # Вероятно, узел VPN; назначение уточнить
+cftunnel.com                                 # Работа Cloudflare Tunnel
+de12.abvpn.ru                                # Сервер AB VPN
+de18.abvpn.net                               # Сервер AB VPN
+h2.cftunnel.com                              # Cloudflare Tunnel по HTTP/2
+keeneticmom.netcraze.link                    # Адрес удалённого доступа через CrazeDNS
+lt03.abvpn.net                               # Сервер AB VPN
+nl29.abvpn.net                               # Сервер AB VPN
+quic.cftunnel.com                            # Cloudflare Tunnel по QUIC
+ru09.abvpn.net                               # Сервер AB VPN
+ru13.theabvp.org                             # Предполагаемый узел AB VPN
+ru25.tcpdoor.net                             # Предполагаемый узел AB VPN
+ru26.abvpn.ru                                # Сервер AB VPN
+ru37.tcpdoor.net                             # Предполагаемый узел AB VPN
+ru41.theabvp.org                             # Предполагаемый узел AB VPN
+ru50.theabvp.org                             # Предполагаемый узел AB VPN
+ru57.abvpn.net                               # Сервер AB VPN
+ru71.tcpdoor.net                             # Предполагаемый узел AB VPN
+usa04.abvpn.net                              # Сервер AB VPN
+usa24.tcpnet.fun                             # Предполагаемый узел AB VPN
+xray.abvpn.ru                                # Подключение AB VPN через Xray
 
-DNS / secure resolvers
-----------------------
+# DNS / secure resolvers
+# ----------------------
 
-adguard-dns.com                                 # AdGuard DNS
-cftunnel.com                                    # Cloudflare Tunnel
-dns.adguard-dns.com                             # AdGuard DNS
-dns.google.com                                  # Google DNS
-dns.opendns.com                                 # OpenDNS
-dns.quad9.net                                   # Quad9 DNS
-doh.cleanbrowsing.org                           # CleanBrowsing DNS
-doh.opendns.com                                 # OpenDNS
-family.adguard-dns.com                          # AdGuard Family DNS
-h2.cftunnel.com                                 # Cloudflare Tunnel
-one.one.one.one                                 # Cloudflare DNS
-quic.cftunnel.com                               # Cloudflare Tunnel
-security-filter-dns.cleanbrowsing.org           # CleanBrowsing DNS
-security.cloudflare-dns.com                     # Cloudflare DNS
+adguard-dns.com                              # Сайт и настройка AdGuard DNS
+dns.adguard-dns.com                          # AdGuard DNS: фильтрация рекламы и угроз
+dns.google.com                               # Прежний адрес Google DNS
+dns.opendns.com                              # Публичный DNS OpenDNS
+dns.quad9.net                                # Quad9 DNS: блокировка вредоносных доменов
+doh.cleanbrowsing.org                        # Зашифрованный DNS CleanBrowsing
+doh.opendns.com                              # Зашифрованный DNS OpenDNS
+family.adguard-dns.com                       # AdGuard DNS: семейная фильтрация
+one.one.one.one                              # Публичный DNS Cloudflare
+security-filter-dns.cleanbrowsing.org        # CleanBrowsing DNS: блокировка угроз
+security.cloudflare-dns.com                  # Cloudflare DNS: блокировка угроз
 
-Yandex
-------
+# Yandex
+# ------
 
-frontend.vh.yandex.ru                           # Yandex Video
-maps.yastatic.net                               # Yandex Maps CDN
-push.yandex.ru                                  # Yandex push
-weather.yastatic.net                            # Yandex Weather CDN
-yastatic-net.ru                                 # Yandex CDN
-yastatic.net                                    # Yandex CDN
+frontend.vh.yandex.ru                        # Видеосервис Яндекса
+maps.yastatic.net                            # Файлы и изображения Яндекс Карт
+push.yandex.ru                               # Уведомления сервисов Яндекса
+weather.yastatic.net                         # Файлы Яндекс Погоды
+yastatic-net.ru                              # Вероятно, вспомогательный домен Яндекса
+yastatic.net                                 # Файлы Яндекса, включая рекламные скрипты
 
-Social networks / dating
-------------------------
+# Social networks / dating
+# ------------------------
 
-api.twitter.com                                 # Twitter API
-edge-chat.instagram.com                         # Instagram chat
-gateway.instagram.com                           # Instagram gateway
-scontent-ams2-1.cdninstagram.com                # Instagram CDN
-scontent-ams4-1.cdninstagram.com                # Instagram CDN
-scontent-dfw5-1.cdninstagram.com                # Instagram CDN
-scontent-dfw5-2.cdninstagram.com                # Instagram CDN
-scontent-dfw6-1.cdninstagram.com                # Instagram CDN
-scontent-fra3-1.cdninstagram.com                # Instagram CDN
-scontent-fra3-2.cdninstagram.com                # Instagram CDN
-scontent-fra5-1.cdninstagram.com                # Instagram CDN
-scontent-fra5-2.cdninstagram.com                # Instagram CDN
-scontent.cdninstagram.com                       # Instagram CDN
-static.cdninstagram.com                         # Instagram static
-static.wmbcdn.com                               # Mamba CDN
-web-chat-e2ee.instagram.com                     # Instagram E2EE chat
-www.instagram.com                               # Instagram
-z-p42-instagram.c10r.instagram.com              # Instagram service
+api.twitter.com                              # API социальной сети X / Twitter
+chat.social-solutions.ru                     # Встроенный чат Social Solutions
+chatbackend.social-solutions.ru              # Сервер встроенного чата Social Solutions
+edge-chat.instagram.com                      # Обмен сообщениями Instagram
+gateway.instagram.com                        # Служебные соединения Instagram
+scontent-ams2-1.cdninstagram.com             # Фото и видео Instagram
+scontent-ams4-1.cdninstagram.com             # Фото и видео Instagram
+scontent-dfw5-1.cdninstagram.com             # Фото и видео Instagram
+scontent-dfw5-2.cdninstagram.com             # Фото и видео Instagram
+scontent-dfw6-1.cdninstagram.com             # Фото и видео Instagram
+scontent-fra3-1.cdninstagram.com             # Фото и видео Instagram
+scontent-fra3-2.cdninstagram.com             # Фото и видео Instagram
+scontent-fra5-1.cdninstagram.com             # Фото и видео Instagram
+scontent-fra5-2.cdninstagram.com             # Фото и видео Instagram
+scontent.cdninstagram.com                    # Фото и видео Instagram
+settings-service.social-solutions.ru         # Настройки виджетов Social Solutions
+static.cdninstagram.com                      # Скрипты и оформление Instagram
+static.wmbcdn.com                            # Файлы сервиса знакомств Mamba
+web-chat-e2ee.instagram.com                  # Зашифрованные чаты Instagram
+www.instagram.com                            # Сайт Instagram
+z-p42-instagram.c10r.instagram.com           # Служебный узел Instagram
 
-Media / commerce
-----------------
+# Media / commerce
+# ----------------
 
-fivepost.ru                                     # 5Post
-hd.kinopoisk.ru                                 # Kinopoisk HD
-kinopoisk.userecho.com                          # Kinopoisk feedback
-kinopoiskapiunofficial.tech                     # Kinopoisk unofficial API
-st.aestatic.net                                 # AliExpress CDN
-st.aliexpress.ru                                # AliExpress static
-translate.google.com                            # Google Translate
+fivepost.ru                                  # Доставка 5Post; на сайте есть счётчики
+hd.kinopoisk.ru                              # Просмотр видео Кинопоиска
+kinopoisk.userecho.com                       # Обратная связь и предложения Кинопоиска
+kinopoiskapiunofficial.tech                  # Неофициальный API Кинопоиска
+media.ixbt.com                               # Изображения публикаций iXBT
+st.aestatic.net                              # Файлы интерфейса AliExpress
+st.aliexpress.ru                             # Файлы интерфейса AliExpress
+translate.google.com                         # Google Переводчик
 
-Hosting / hardware / software
------------------------------
+# Hosting / hardware / software
+# -----------------------------
 
-aoostar.com                                     # AOOSTAR
-api.mobile.pc.kvado.ru                          # KVADO API
-community-scripts.org                           # Web service
-crl.microsoft.com                               # Microsoft CRL
-cs.avito.ru                                     # Web service
-dl.cloudsmith.io                                # Cloudsmith CDN
-hostkey.ru                                      # HOSTKEY
-invapi.hostkey.ru                               # HOSTKEY API
-keeneticmom.netcraze.link                       # Keenetic remote access
-lvgl.io                                         # LVGL
-o2.mail.ru                                      # Mail.ru OAuth2
+5jtchkrg1q.a.trbcdn.net                      # Узел CDNvideo; содержимое не установлено
+aoostar.com                                  # Сайт и поддержка оборудования AOOSTAR
+api.mobile.pc.kvado.ru                       # Вероятно, API приложения ЖКХ КВАДО
+community-scripts.org                        # Скрипты установки сервисов для Proxmox
+crl.microsoft.com                            # Списки отозванных сертификатов Microsoft
+cxema.su                                     # Схемы и BoardView для ремонта электроники
+dl.cloudsmith.io                             # Загрузка программных пакетов Cloudsmith
+hostkey.ru                                   # Сайт хостинг-провайдера HOSTKEY
+invapi.hostkey.ru                            # Панель управления серверами HOSTKEY
+lvgl.io                                      # Графическая библиотека для дисплеев
+nuc-cdp.voskhod.ru                           # Сертификаты и списки отзыва НУЦ
+o2.mail.ru                                   # Авторизация через аккаунт Mail.ru
+onetv-srt.com                                # Форум ремонта телевизоров; есть реклама
 
-AI / agents / development
--------------------------
+# AI / agents / development
+# -------------------------
 
-agentskills.io                                  # Agent Skills
-alidt.alicdn.com                                # Alibaba/Qwen CDN
-api.workos.com                                  # Api
-aplus.qwen.ai                                   # Qwen analytics
-assets.alicdn.com                               # Alibaba/Qwen CDN
-at.alicdn.com                                   # Alibaba/Qwen CDN
-chat.z.ai                                       # Z.ai chat
-clawhub.ai                                      # ClawHub
-clawhub.com                                     # ClawHub
-code.visualstudio.com                           # VS Code
-d.alicdn.com                                    # Alibaba/Qwen CDN
-docs.continue.dev                               # Docs
-docs.openclaw.ai                                # OpenClaw docs
-docs.z.ai                                       # Z.ai docs
-g.alicdn.com                                    # Alibaba/Qwen CDN
-ga-bp1aognb8xq6akjh9r3do.aliyunga0018.com       # Alibaba/Qwen CDN
-img.alicdn.com                                  # Alibaba/Qwen CDN
-kilo.ai                                         # Kilo
-main.vscode-cdn.net                             # VS Code CDN
-modelcontextprotocol.io                         # MCP
-nanaimage.ai                                    # Nanaimage
-nodepay.ai                                      # Nodepay
-o.alicdn.com                                    # Alibaba/Qwen CDN
-opencode.ai                                     # Opencode
-portal.qwen.ai                                  # Qwen portal
-rules1.clearurls.xyz                            # ClearURLs rules
-signin.ollama.com                               # Ollama sign-in
-skills.sh                                       # Skills
-ss.qwen.ai                                      # Ss
+api.workos.com                               # API авторизации и управления доступом
+assets.alicdn.com                            # Файлы сервисов Alibaba
+at.alicdn.com                                # Шрифты и значки сервисов Alibaba
+chat.z.ai                                    # Чат с моделями Z.ai / GLM
+code.visualstudio.com                        # Сайт, загрузки и документация VS Code
+d.alicdn.com                                 # Ресурсы Alibaba, включая аналитику
+docs.continue.dev                            # Документация ИИ-помощника Continue
+docs.openclaw.ai                             # Документация OpenClaw
+docs.z.ai                                    # Документация моделей и API Z.ai
+g.alicdn.com                                 # Скрипты Alibaba, включая аналитику
+ga-bp1aognb8xq6akjh9r3do.aliyunga0018.com    # Сетевой ускоритель Alibaba для Qwen
+img.alicdn.com                               # Изображения сервисов Alibaba
+kilo.ai                                      # ИИ-помощник для разработки Kilo
+main.vscode-cdn.net                          # Файлы веб-версии VS Code
+modelcontextprotocol.io                      # Спецификация и документация MCP
+nanaimage.ai                                 # Генерация изображений; есть счётчики
+nodepay.ai                                   # Платформа сбора мнений и сигналов
+o.alicdn.com                                 # Капча Alibaba и сбор отпечатка устройства
+opencode.ai                                  # ИИ-агент для разработки OpenCode
+portal.qwen.ai                               # Поддомен Qwen; назначение не уточнено
+rules1.clearurls.xyz                         # Правила удаления меток слежения ClearURLs
+signin.ollama.com                            # Вход в аккаунт Ollama
+skills.sh                                    # Каталог навыков агентов; проверять код
+ss.qwen.ai                                   # Поддомен Qwen; назначение не уточнено
 
-IPTV / streaming
-----------------
+# IPTV / streaming
+# ----------------
 
-10.hls.ga                                       # IPTV HLS
-10.tvtm.one                                     # IPTV tvtm.one
-11.hls.ga                                       # IPTV HLS
-11.team.ga                                      # IPTV team.ga
-11.tvtm.one                                     # IPTV tvtm.one
-12.hls.ga                                       # IPTV HLS
-12.team.ga                                      # IPTV team.ga
-12.tvtm.one                                     # IPTV tvtm.one
-13.team.ga                                      # IPTV team.ga
-13.tvtm.one                                     # IPTV tvtm.one
-14.hls.ga                                       # IPTV HLS
-14.team.ga                                      # IPTV team.ga
-14.tvtm.one                                     # IPTV tvtm.one
-15.hls.ga                                       # IPTV HLS
-15.team.ga                                      # IPTV team.ga
-15.tvtm.one                                     # IPTV tvtm.one
-16.hls.ga                                       # IPTV HLS
-16.team.ga                                      # IPTV team.ga
-16.tvtm.one                                     # IPTV tvtm.one
-17.hls.ga                                       # IPTV HLS
-2.hls.ga                                        # IPTV HLS
-2.team.ga                                       # IPTV team.ga
-2.tvtm.one                                      # IPTV tvtm.one
-3.hls.ga                                        # IPTV HLS
-3.team.ga                                       # IPTV team.ga
-3.tvtm.one                                      # IPTV tvtm.one
-4.hls.ga                                        # IPTV HLS
-4.team.ga                                       # IPTV team.ga
-4.tvtm.one                                      # IPTV tvtm.one
-5.hls.ga                                        # IPTV HLS
-5.team.ga                                       # IPTV team.ga
-5.tvtm.one                                      # IPTV tvtm.one
-6.hls.ga                                        # IPTV HLS
-6.team.ga                                       # IPTV team.ga
-6.tvtm.one                                      # IPTV tvtm.one
-7.hls.ga                                        # IPTV HLS
-7.team.ga                                       # IPTV team.ga
-7.tvtm.one                                      # IPTV tvtm.one
-8.hls.ga                                        # IPTV HLS
-8.tvtm.one                                      # IPTV tvtm.one
-9.hls.ga                                        # IPTV HLS
-9.tvtm.one                                      # IPTV tvtm.one
-_8080._https.10.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.11.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.12.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.13.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.14.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.15.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.16.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.2.tvtm.one                         # IPTV HTTPS SRV
-_8080._https.3.tvtm.one                         # IPTV HTTPS SRV
-_8080._https.4.tvtm.one                         # IPTV HTTPS SRV
-_8080._https.5.tvtm.one                         # IPTV HTTPS SRV
-_8080._https.6.tvtm.one                         # IPTV HTTPS SRV
-_8080._https.7.tvtm.one                         # IPTV HTTPS SRV
-_8080._https.8.tvtm.one                         # IPTV HTTPS SRV
-_8080._https.9.tvtm.one                         # IPTV HTTPS SRV
-_8080._https.hk.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.nl.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.nl2.tvtm.one                       # IPTV HTTPS SRV
-_8080._https.pl.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.ru.tvtm.one                        # IPTV HTTPS SRV
-_8080._https.ru2.tvtm.one                       # IPTV HTTPS SRV
-_8080._https.ru3.tvtm.one                       # IPTV HTTPS SRV
-_8080._https.ru4.tvtm.one                       # IPTV HTTPS SRV
-_8080._https.ru5.tvtm.one                       # IPTV HTTPS SRV
-_8080._https.ru6.tvtm.one                       # IPTV HTTPS SRV
-_8080._https.ru7.tvtm.one                       # IPTV HTTPS SRV
-hk.hls.ga                                       # IPTV HLS
-hk.team.ga                                      # IPTV team.ga
-hk.tvtm.one                                     # IPTV tvtm.one
-nl.team.ga                                      # IPTV team.ga
-nl.tvtm.one                                     # IPTV tvtm.one
-nl2.hls.ga                                      # IPTV HLS
-nl2.tvtm.one                                    # IPTV tvtm.one
-pl.hls.ga                                       # IPTV HLS
-pl.tvtm.one                                     # IPTV tvtm.one
-ru.hls.ga                                       # IPTV HLS
-ru.team.ga                                      # IPTV team.ga
-ru.tvtm.one                                     # IPTV tvtm.one
-ru2.hls.ga                                      # IPTV HLS
-ru2.team.ga                                     # IPTV team.ga
-ru2.tvtm.one                                    # IPTV tvtm.one
-ru3.hls.ga                                      # IPTV HLS
-ru3.team.ga                                     # IPTV team.ga
-ru3.tvtm.one                                    # IPTV tvtm.one
-ru4.tvtm.one                                    # IPTV tvtm.one
-ru5.tvtm.one                                    # IPTV tvtm.one
-ru6.tvtm.one                                    # IPTV tvtm.one
-ru7.hls.ga                                      # IPTV HLS
-ru7.tvtm.one                                    # IPTV tvtm.one
-rus.hls.ga                                      # IPTV HLS
-rus.tvtm.one                                    # IPTV tvtm.one
-tvtm.one                                        # IPTV tvtm.one
+# hls.ga
+2.hls.ga                                     # IPTV: узел TV.team
+3.hls.ga                                     # IPTV: узел TV.team
+4.hls.ga                                     # IPTV: узел TV.team
+5.hls.ga                                     # IPTV: узел TV.team
+6.hls.ga                                     # IPTV: узел TV.team
+7.hls.ga                                     # IPTV: узел TV.team
+8.hls.ga                                     # IPTV: узел TV.team
+9.hls.ga                                     # IPTV: узел TV.team
+10.hls.ga                                    # IPTV: узел TV.team
+11.hls.ga                                    # IPTV: узел TV.team
+12.hls.ga                                    # IPTV: узел TV.team
+14.hls.ga                                    # IPTV: узел TV.team
+15.hls.ga                                    # IPTV: узел TV.team
+16.hls.ga                                    # IPTV: узел TV.team
+17.hls.ga                                    # IPTV: узел TV.team
+hk.hls.ga                                    # IPTV: узел TV.team
+nl2.hls.ga                                   # IPTV: узел TV.team
+pl.hls.ga                                    # IPTV: узел TV.team
+ru.hls.ga                                    # IPTV: узел TV.team
+ru2.hls.ga                                   # IPTV: узел TV.team
+ru3.hls.ga                                   # IPTV: узел TV.team
+ru7.hls.ga                                   # IPTV: узел TV.team
+rus.hls.ga                                   # IPTV: узел TV.team
 
-Gaming / consoles
------------------
+# team.ga
+2.team.ga                                    # IPTV: узел TV.team
+3.team.ga                                    # IPTV: узел TV.team
+4.team.ga                                    # IPTV: узел TV.team
+5.team.ga                                    # IPTV: узел TV.team
+6.team.ga                                    # IPTV: узел TV.team
+7.team.ga                                    # IPTV: узел TV.team
+11.team.ga                                   # IPTV: узел TV.team
+12.team.ga                                   # IPTV: узел TV.team
+13.team.ga                                   # IPTV: узел TV.team
+14.team.ga                                   # IPTV: узел TV.team
+15.team.ga                                   # IPTV: узел TV.team
+16.team.ga                                   # IPTV: узел TV.team
+hk.team.ga                                   # IPTV: узел TV.team
+nl.team.ga                                   # IPTV: узел TV.team
+ru.team.ga                                   # IPTV: узел TV.team
+ru2.team.ga                                  # IPTV: узел TV.team
+ru3.team.ga                                  # IPTV: узел TV.team
 
-508223012e5a5ff19f30a391b2bdadc0.my.2k.com      # 2K service
-csis-lg.wowslegends.com                         # WoWS Legends
-entitlements.api.2kcoretech.online              # 2K entitlements
-f91991q0.bget.ru                                # Beget host
-image.api.np.km.playstation.net                 # PlayStation images
-image.api.playstation.com                       # PlayStation images
-login-1.wowslegends.com                         # WoWS Legends
-login-2.wowslegends.com                         # WoWS Legends
-mafia.2k.com                                    # Mafia / 2K
-pipes-prod-glutton.public.aws.demonware.net     # Demonware game service
-promotions.api.2kcoretech.online                # 2K promotions
-promotions-ew-assets.2kcoretech.online          # 2K promotions
-romspure.cc                                     # ROM archive
-sso.api.2kcoretech.online                       # 2K SSO
-stratege.ru                                     # Gaming portal
-vulcan.dl.playstation.net                       # PlayStation CDN
-wowslegends.com                                 # WoWS Legends
-www.pspx.ru                                     # PSPX forum
+# tvtm.one
+2.tvtm.one                                   # IPTV: узел TV.team
+3.tvtm.one                                   # IPTV: узел TV.team
+4.tvtm.one                                   # IPTV: узел TV.team
+5.tvtm.one                                   # IPTV: узел TV.team
+6.tvtm.one                                   # IPTV: узел TV.team
+7.tvtm.one                                   # IPTV: узел TV.team
+8.tvtm.one                                   # IPTV: узел TV.team
+9.tvtm.one                                   # IPTV: узел TV.team
+10.tvtm.one                                  # IPTV: узел TV.team
+11.tvtm.one                                  # IPTV: узел TV.team
+12.tvtm.one                                  # IPTV: узел TV.team
+13.tvtm.one                                  # IPTV: узел TV.team
+14.tvtm.one                                  # IPTV: узел TV.team
+15.tvtm.one                                  # IPTV: узел TV.team
+16.tvtm.one                                  # IPTV: узел TV.team
+hk.tvtm.one                                  # IPTV: узел TV.team
+nl.tvtm.one                                  # IPTV: узел TV.team
+nl2.tvtm.one                                 # IPTV: узел TV.team
+pl.tvtm.one                                  # IPTV: узел TV.team
+ru.tvtm.one                                  # IPTV: узел TV.team
+ru2.tvtm.one                                 # IPTV: узел TV.team
+ru3.tvtm.one                                 # IPTV: узел TV.team
+ru4.tvtm.one                                 # IPTV: узел TV.team
+ru5.tvtm.one                                 # IPTV: узел TV.team
+ru6.tvtm.one                                 # IPTV: узел TV.team
+ru7.tvtm.one                                 # IPTV: узел TV.team
+rus.tvtm.one                                 # IPTV: узел TV.team
+tvtm.one                                     # IPTV: узел TV.team
 
-Torrent trackers
-----------------
+# Служебные DNS-имена HTTPS, порт 8080
+_8080._https.2.tvtm.one                      # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.3.tvtm.one                      # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.4.tvtm.one                      # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.5.tvtm.one                      # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.6.tvtm.one                      # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.7.tvtm.one                      # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.8.tvtm.one                      # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.9.tvtm.one                      # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.10.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.11.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.12.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.13.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.14.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.15.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.16.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.hk.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.nl.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.nl2.tvtm.one                    # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.pl.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.ru.tvtm.one                     # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.ru2.tvtm.one                    # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.ru3.tvtm.one                    # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.ru4.tvtm.one                    # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.ru5.tvtm.one                    # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.ru6.tvtm.one                    # IPTV: DNS-запись HTTPS, порт 8080
+_8080._https.ru7.tvtm.one                    # IPTV: DNS-запись HTTPS, порт 8080
 
-apibay.org                                      # Torrent tracker
-bt.booktracker.work                             # Booktracker
-h4.trakx.nibba.trade                            # BitTorrent tracker
-kinozal.jumpingcrab.com                         # Kinozal mirror
-nnmstatic.win                                   # NNM-Club static
-piratebayproxy.net                              # Torrent tracker
-pirates-forum.org                               # Torrent tracker
-thepiratebay.org                                # Torrent tracker
-torrindex.net                                   # Torrent tracker
-torrent-games.games                             # Torrent games
-tr0.tor4me.info                                 # Tracker tor4me.info #0
-tr0.torrent4me.com                              # Tracker torrent4me.com #0
-tr1.tor2me.info                                 # Tracker tor2me.info #1
-tr1.tor4me.info                                 # Tracker tor4me.info #1
-tr1.torrent4me.com                              # Tracker torrent4me.com #1
-tr2.tor2me.info                                 # Tracker tor2me.info #2
-tr2.tor4me.info                                 # Tracker tor4me.info #2
-tr2.torrent4me.com                              # Tracker torrent4me.com #2
-tr3.tor2me.info                                 # Tracker tor2me.info #3
-tr3.tor4me.info                                 # Tracker tor4me.info #3
-tr3.torrent4me.com                              # Tracker torrent4me.com #3
-tr4.tor2me.info                                 # Tracker tor2me.info #4
-tr4.tor4me.info                                 # Tracker tor4me.info #4
-tr4.torrent4me.com                              # Tracker torrent4me.com #4
-tr5.tor2me.info                                 # Tracker tor2me.info #5
-tr5.tor4me.info                                 # Tracker tor4me.info #5
-tr5.torrent4me.com                              # Tracker torrent4me.com #5
-www.pirateproxy-bay.com                         # Torrent tracker
-t-ru.org                                        # Torrent tracker
+# Gaming / consoles
+# -----------------
 
-cxema.su
-onetv-srt.com
-ixbt.games
-media.ixbt.games
-media.ixbt.com
+508223012e5a5ff19f30a391b2bdadc0.my.2k.com   # Служебный адрес аккаунта 2K
+csis-lg.wowslegends.com                      # Узел WoWS Legends; функция не уточнена
+entitlements.api.2kcoretech.online           # Проверка прав на игры и контент 2K
+image.api.np.km.playstation.net              # Изображения каталога PlayStation
+image.api.playstation.com                    # Изображения каталога PlayStation
+ixbt.games                                   # Новости и обзоры игр
+login-1.wowslegends.com                      # Вход в World of Warships: Legends
+login-2.wowslegends.com                      # Вход в World of Warships: Legends
+mafia.2k.com                                 # Официальный сайт серии Mafia
+media.ixbt.games                             # Изображения игровых публикаций iXBT
+pipes-prod-glutton.public.aws.demonware.net  # Вероятно, игровая телеметрия Demonware
+promotions-ew-assets.2kcoretech.online       # Вероятно, изображения акций 2K
+promotions.api.2kcoretech.online             # Вероятно, акции и игровые награды 2K
+romspure.cc                                  # Архив игр для эмуляторов; проверять права
+sso.api.2kcoretech.online                    # Единый вход в аккаунт 2K
+stratege.ru                                  # Игровой портал, трофеи и руководства
+vulcan.dl.playstation.net                    # Загрузка контента PlayStation
+wowslegends.com                              # Сайт World of Warships: Legends
+www.pspx.ru                                  # Магазин и форум игровых консолей
+
+# Torrent trackers
+# ----------------
+
+apibay.org                                   # API каталога The Pirate Bay
+bt.booktracker.work                          # Обмен адресами пиров Booktracker
+h4.trakx.nibba.trade                         # Торрент-трекер; текущее состояние неизвестно
+kinozal.jumpingcrab.com                      # Зеркало Кинозала
+nnmstatic.win                                # Файлы и реклама NNM-Club
+piratebayproxy.net                           # Прокси The Pirate Bay; есть реклама VPN
+pirates-forum.org                            # Форум сообщества The Pirate Bay
+t-ru.org                                     # Служебный домен RuTracker
+thepiratebay.org                             # Торрент-каталог; проверять права на контент
+torrent-games.games                          # Каталог игровых репаков; проверять права
+torrindex.net                                # Ресурс The Pirate Bay; функция не уточнена
+tr0.tor4me.info                              # Обмен адресами пиров Кинозала
+tr0.torrent4me.com                           # Обмен адресами пиров Кинозала
+tr1.tor2me.info                              # Обмен адресами пиров Кинозала
+tr1.tor4me.info                              # Обмен адресами пиров Кинозала
+tr1.torrent4me.com                           # Обмен адресами пиров Кинозала
+tr2.tor2me.info                              # Обмен адресами пиров Кинозала
+tr2.tor4me.info                              # Обмен адресами пиров Кинозала
+tr2.torrent4me.com                           # Обмен адресами пиров Кинозала
+tr3.tor2me.info                              # Обмен адресами пиров Кинозала
+tr3.tor4me.info                              # Обмен адресами пиров Кинозала
+tr3.torrent4me.com                           # Обмен адресами пиров Кинозала
+tr4.tor2me.info                              # Обмен адресами пиров Кинозала
+tr4.tor4me.info                              # Обмен адресами пиров Кинозала
+tr4.torrent4me.com                           # Обмен адресами пиров Кинозала
+tr5.tor2me.info                              # Обмен адресами пиров Кинозала
+tr5.tor4me.info                              # Обмен адресами пиров Кинозала
+tr5.torrent4me.com                           # Обмен адресами пиров Кинозала
+www.pirateproxy-bay.com                      # Прокси The Pirate Bay; подлинность неясна
