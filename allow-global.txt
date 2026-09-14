@@ -30,6 +30,7 @@ sso-forms-prod.t-static.ru                      # T-ID / SSO
 t-j.ru                                          # Т—Ж
 unic-cdn-prod.cdn-tinkoff.ru                    # T-Bank CDN
 www.cdn-tinkoff.ru                              # T-Bank CDN
+opis-cdn.tinkoffjournal.ru
 
 Finance / exchanges
 -------------------
