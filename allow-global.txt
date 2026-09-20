@@ -294,7 +294,6 @@ stratege.ru                                  # Игровой портал, тр
 vulcan.dl.playstation.net                    # Загрузка контента PlayStation
 wowslegends.com                              # Сайт World of Warships: Legends
 www.pspx.ru                                  # Магазин и форум игровых консолей
-dlpsgame.com
 
 # Torrent trackers
 # ----------------
