@@ -138,6 +138,7 @@ lvgl.io                                      # Графическая библи
 nuc-cdp.voskhod.ru                           # Сертификаты и списки отзыва НУЦ
 o2.mail.ru                                   # Авторизация через аккаунт Mail.ru
 onetv-srt.com                                # Форум ремонта телевизоров; есть реклама
+koreader.rocks
 
 # AI / agents / development
 # -------------------------
