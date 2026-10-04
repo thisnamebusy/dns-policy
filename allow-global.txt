@@ -65,6 +65,8 @@ xray.abvpn.ru                                # Подключение AB VPN ч�
 
 adguard-dns.com                              # Сайт и настройка AdGuard DNS
 dns.adguard-dns.com                          # AdGuard DNS: фильтрация рекламы и угроз
+dns.cloudflare.com                           # Cloudflare DNS: DoH
+dns.google                                   # Google DNS: DoH и DoT
 dns.google.com                               # Прежний адрес Google DNS
 dns.opendns.com                              # Публичный DNS OpenDNS
 dns.quad9.net                                # Quad9 DNS: блокировка вредоносных доменов
@@ -165,7 +167,7 @@ portal.qwen.ai                               # Поддомен Qwen; назна
 rules1.clearurls.xyz                         # Правила удаления меток слежения ClearURLs
 signin.ollama.com                            # Вход в аккаунт Ollama
 skills.sh                                    # Каталог навыков агентов; проверять код
-ss.qwen.ai                                   # Поддомен Qwen; назначение не уточнено
+ss.qwen.ai                                   # Поддомен Qwen; назначение не ясно
 
 # IPTV / streaming
 # ----------------
