@@ -3,7 +3,7 @@ name: Update hBlock
 on:
   workflow_dispatch:
   schedule:
-    - cron: "47 3 * * *"
+    - cron: "30 21 * * *"
 
 permissions:
   contents: write
