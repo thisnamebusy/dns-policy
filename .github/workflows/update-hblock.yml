@@ -1,0 +1,63 @@
+name: Update hBlock
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "47 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-hblock
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Download and validate
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          curl --fail --location \
+            --retry 3 --retry-delay 10 \
+            --connect-timeout 20 --max-time 180 \
+            https://hblock.molinero.dev/hosts \
+            --output "$RUNNER_TEMP/hblock-hosts.txt"
+
+          python3 - "$RUNNER_TEMP/hblock-hosts.txt" <<'PY'
+          import pathlib
+          import sys
+
+          path = pathlib.Path(sys.argv[1])
+          count = 0
+          for line in path.read_text(encoding="utf-8").splitlines():
+              parts = line.split()
+              if len(parts) >= 2 and parts[0] in ("0.0.0.0", "127.0.0.1"):
+                  count += 1
+
+          if count < 100000:
+              raise SystemExit(f"Suspicious download: only {count} hosts")
+          print(f"Validated: {count} hosts")
+          PY
+
+          mv "$RUNNER_TEMP/hblock-hosts.txt" hblock-hosts.txt
+
+      - name: Save changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add hblock-hosts.txt
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update hBlock mirror"
+          git push
