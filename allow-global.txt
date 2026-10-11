@@ -275,27 +275,44 @@ _8080._https.ru6.tvtm.one                    # IPTV: DNS-запись HTTPS, п�
 _8080._https.ru7.tvtm.one                    # IPTV: DNS-запись HTTPS, порт 8080
 
 # Gaming / consoles
-# -----------------
+# =================
 
-508223012e5a5ff19f30a391b2bdadc0.my.2k.com   # Служебный адрес аккаунта 2K
-csis-lg.wowslegends.com                      # Узел WoWS Legends; функция не уточнена
-entitlements.api.2kcoretech.online           # Проверка прав на игры и контент 2K
-image.api.np.km.playstation.net              # Изображения каталога PlayStation
-image.api.playstation.com                    # Изображения каталога PlayStation
-ixbt.games                                   # Новости и обзоры игр
-login-1.wowslegends.com                      # Вход в World of Warships: Legends
-login-2.wowslegends.com                      # Вход в World of Warships: Legends
+# PlayStation / Sony
+# -----------------
+#image.api.np.km.playstation.net              # Изображения и обложки контента PlayStation
+#image.api.playstation.com                    # Изображения и медиаресурсы PlayStation
+#vulcan.dl.playstation.net                    # Загрузка контента PlayStation Network
+
+# 2K Games
+# --------
+508223012e5a5ff19f30a391b2bdadc0.my.2k.com # Персонализированный адрес сервиса 2K; назначение не установлено
+entitlements.api.2kcoretech.online           # Проверка прав на игры и дополнительный контент
 mafia.2k.com                                 # Официальный сайт серии Mafia
-media.ixbt.games                             # Изображения игровых публикаций iXBT
-pipes-prod-glutton.public.aws.demonware.net  # Вероятно, игровая телеметрия Demonware
-promotions-ew-assets.2kcoretech.online       # Вероятно, изображения акций 2K
-promotions.api.2kcoretech.online             # Вероятно, акции и игровые награды 2K
-romspure.cc                                  # Архив игр для эмуляторов; проверять права
-sso.api.2kcoretech.online                    # Единый вход в аккаунт 2K
-stratege.ru                                  # Игровой портал, трофеи и руководства
-vulcan.dl.playstation.net                    # Загрузка контента PlayStation
-wowslegends.com                              # Сайт World of Warships: Legends
-www.pspx.ru                                  # Магазин и форум игровых консолей
+promotions-ew-assets.2kcoretech.online       # Ресурсы игровых акций и предложений 2K
+promotions.api.2kcoretech.online             # API игровых акций и предложений 2K
+sso.api.2kcoretech.online                    # Единая авторизация в сервисах 2K
+
+# World of Warships: Legends / Wargaming
+# -------------------------------------
+csis-lg.wowslegends.com                      # Служебный узел WoWS Legends; назначение не установлено
+lg.wowslegends.com                           # Предположительно сбор игровых событий и журналов
+login-1.wowslegends.com                      # Сервер авторизации WoWS Legends
+login-2.wowslegends.com                      # Сервер авторизации WoWS Legends
+navy-media-lepo-prod.wgcdn.co                # CDN медиаресурсов WoWS Legends
+wowslegends-game-production.gcdn.co          # Производственная игровая инфраструктура WoWS Legends
+wowslegends.com                              # Официальный сайт World of Warships: Legends
+
+# Activision / Demonware
+# ----------------------
+pipes-prod-glutton.public.aws.demonware.net  # Сервис Demonware для Call of Duty; возможна передача телеметрии
+
+# Gaming portals / resources
+# --------------------------
+ixbt.games                                   # Новости и обзоры видеоигр
+media.ixbt.games                             # Изображения и медиа игрового портала iXBT
+romspure.cc                                  # Сторонний каталог ROM-образов для эмуляторов
+stratege.ru                                  # Игровые новости, руководства и трофеи
+www.pspx.ru                                  # Форум и магазин игровых консолей
 
 # Torrent trackers
 # ----------------
