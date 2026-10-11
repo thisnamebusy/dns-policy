@@ -346,3 +346,7 @@ tr5.tor2me.info                              # Обмен адресами пи�
 tr5.tor4me.info                              # Обмен адресами пиров Кинозала
 tr5.torrent4me.com                           # Обмен адресами пиров Кинозала
 www.pirateproxy-bay.com                      # Прокси The Pirate Bay; подлинность неясна
+
+# News
+#-----
+gamegpu.com                                  # Русско-английский IT-портал
