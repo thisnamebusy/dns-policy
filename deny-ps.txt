@@ -1,0 +1,103 @@
+# PlayStation Domains
+# ===================
+
+# Global / Shared
+# ---------------
+
+# playstation.net                              # Основная инфраструктура PSN, обновлений и загрузок всех поколений
+# playstation.com                              # Официальный сайт, учётные записи, Store и API
+# playstation.org                              # Домен Sony; самостоятельная функция для консолей не подтверждена
+# sonyentertainmentnetwork.com                 # Учётные записи и исторические сервисы Sony Entertainment Network
+# qriocity.com                                 # Историческая инфраструктура мультимедийных сервисов Sony
+# ribob01.net                                  # API и ресурсы PSN; точное назначение части сервисов неизвестно
+# post.net.playstation.net                     # Проверка исходящей скорости интернет-соединения
+# get.net.playstation.net                      # Проверка входящей скорости интернет-соединения
+# tmdb.np.dl.playstation.net                   # Метаданные, изображения и сведения об играх PS3/PS4
+# themis.dl.playstation.net                    # Служебный HTTPS-сервер Sony, функция не установлена
+# sf.api.np.km.playstation.net                 # Служебный API PSN, точная функция не установлена
+# asm.np.community.playstation.net             # Служба PSN Community, присутствует также в документации PS5
+# static-resource.np.community.playstation.net # Статические ресурсы PSN, упоминается для PS4/PS5
+# artcdnsecure.ribob01.net                     # Предположительно графические ресурсы PSN
+# api-p014.ribob01.net                         # API PSN, конкретные операции неизвестны
+# apicdn-p014.ribob01.net                      # Предположительно CDN для API PSN
+# t-prof.np.community.playstation.net          # Предположительно служба профилей; назначение не подтверждено
+# it-prof.np.community.playstation.net         # Зафиксированное PS4 HTTPS-соединение, функция неизвестна
+# al02.cdn.update.playstation.net              # CDN инфраструктуры обновлений Sony
+# a01.cdn.update.playstation.org.edgesuite.net # CDN Akamai, связанный с обновлениями PlayStation
+# playstation.sony.akadns.net                  # DNS-инфраструктура Akamai для ресурсов PlayStation
+# a192.d.akamai.net                            # Общий CDN Akamai, не принадлежит исключительно Sony
+# us.np.stun.playstation.net                   # STUN: определение NAT и внешнего сетевого адреса
+# crepo.ww.dl.playstation.net                  # Отправка отчётов о сбоях PS3/PS4
+# auth.np.ac.playstation.net                   # Авторизация в PlayStation Network
+# commerce.np.ac.playstation.net               # Активация, деактивация и лицензирование контента
+# update.net.playstation.net                   # Общая инфраструктура обновлений, точная роль не уточнена
+# oss.dl.playstation.net                       # Служебный ресурс Sony, точная функция не установлена
+# gs2.ww.prod.dl.playstation.net               # Доставка игровых пакетов и ресурсов
+# gs-sec.ww.np.dl.playstation.net              # Доставка цифровых игровых пакетов
+# gs2-sec.ww.prod.dl.playstation.net           # Доставка цифровых игровых пакетов
+# apollo2.dl.playstation.net                   # Доставка ресурсов Store, встречается в списках PS3/PS4
+# fswitch.dl.playstation.net                   # Служебный сервер PSN, функция не установлена
+# rnps-crl.dl.playstation.net                  # Служебный ресурс RNPS, точная функция не подтверждена
+# event.api.np.km.playstation.net              # API событий PSN, точный состав данных не установлен
+# urlconfig.api.playstation.com                # Предположительно получение конфигурации URL сервисов
+# image.api.np.km.playstation.net              # Предположительно API изображений PSN
+
+# PS3
+# ---
+
+ps3.update.playstation.net                    # Проверка и загрузка системных прошивок PS3, все регионы
+ps3.download.playstation.net                  # Исторический домен загрузок PS3, точная роль не уточнена
+a0.ww.np.dl.playstation.net                   # Проверка доступных обновлений игр PS3
+b0.ww.np.dl.playstation.net                   # Загрузка пакетов обновлений игр PS3
+a0.ww.dl.playstation.net                      # Проверка обновлений игр, исторический адрес
+xmb-e.dl.playstation.net                      # Ресурсы разделов XMB, связанных с PSN
+mercury.dl.playstation.net                    # Рекламные видеоролики раздела What's New
+nsx.np.dl.playstation.net                     # Предпросмотр и загрузки PlayStation Store
+nsx-e.np.dl.playstation.net                   # Рекламные ресурсы PlayStation Store
+infoboard.ww.dl.playstation.net               # Информационная панель XMB
+service.playstation.net                       # Служебные соединения PS3, функция не детализирована
+ares.dl.playstation.net                       # Преимущественно обновления игр
+apollo.dl.playstation.net                     # Преимущественно изображения PlayStation Store
+poseidon.dl.playstation.net                   # Видеоролики, обои и игровые ресурсы
+zeus.dl.playstation.net                       # Игры PS3/PSP и дополнительный контент DLC
+pkg.ww.home.playstation.net                   # Загрузка пакетов PlayStation Home
+select.ww.home.playstation.net                # Выбор страны и продукта PlayStation Home
+us.np.adproxy.ndmdhs.com                      # Информационная строка XMB
+
+# PS4
+# ---
+
+ps4.update.playstation.net                    # Проверка и загрузка прошивок PS4, региональные серверы d/f/h
+ps4.updptl.np.community.playstation.net       # Портал обновлений PS4, точная роль запросов не установлена
+ps4.updptl.sp-int.community.playstation.net   # Портал обновлений PS4, тестовая среда SP-INT
+ps4updptl.eu.np.community.playstation.net     # Европейский портал обновлений PS4
+ps4updptl.uk.np.community.playstation.net     # Британский портал обновлений PS4, по специализированным спискам
+ps4updptl.jp.np.community.playstation.net     # Японский портал обновлений PS4
+ps4updptl.jp.sp-int.community.playstation.net # Японский портал PS4, тестовая среда SP-INT
+ps4updptl.ru.np.community.playstation.net     # Российский адрес портала PS4, по пользовательским спискам
+ps4-system.sec.np.dl.playstation.net          # Системные конфигурации и фоновые службы PS4
+ps4-eb.ww.np.dl.playstation.net               # Конфигурационные XML: доступность сервисов и запуск приложений
+post.p01.ps4.update.playstation.net           # Адрес инфраструктуры обновлений PS4, точная функция не подтверждена
+
+# PS5
+# ---
+
+# ps5.update.playstation.net                  # Проверка и загрузка системных прошивок PS5
+# ps5.np.playstation.net                      # Служебный сервер PS5, точная функция не установлена
+# sgst.prod.dl.playstation.net                # Сведения о патчах игр PS5 и ссылки на пакеты обновлений
+# ps5-multi-bundle-ota.rnps.dl.playstation.net # Доставка компонентов интерфейса PS5, RNPS
+# home.rnps.dl.playstation.net                # Ресурсы домашнего интерфейса PS5
+# home-lambda.rnps.dl.playstation.net         # Компонент домашнего интерфейса PS5
+# control-center.rnps.dl.playstation.net      # Ресурсы центра управления PS5
+# profile.rnps.dl.playstation.net             # Компонент профиля пользователя PS5
+# gaming-lounge.rnps.dl.playstation.net       # Компонент игрового интерфейса PS5
+# invitation-dialog.rnps.dl.playstation.net   # Компонент приглашений PS5
+# player-selection-dialog.rnps.dl.playstation.net # Компонент выбора игроков PS5
+# notification-overlay.rnps.dl.playstation.net # Компонент уведомлений PS5
+# igc-browse.rnps.dl.playstation.net          # Компонент RNPS, точная функция не установлена
+# feature-discovery-device-dialog.rnps.dl.playstation.net # Диалог обнаружения функций PS5
+# uam-fs.rnps.dl.playstation.net              # Системный компонент RNPS, точная функция не установлена
+# chimera-lambda.rnps.dl.playstation.net      # Компонент RNPS, точная функция не установлена
+# millenniumfalcon.rnps.dl.playstation.net    # Компонент RNPS, точная функция не установлена
+# monte-carlo.rnps.dl.playstation.net         # Компонент RNPS, точная функция не установлена
+# ppr-crl.rnps.dl.playstation.net             # Служебный ресурс RNPS, точная функция не установлена
