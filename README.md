@@ -6,7 +6,7 @@
 |---|---|
 | [allow-global.txt](https://raw.githubusercontent.com/thisnamebusy/dns-policy/main/allow-global.txt) | Разрешённые домены |
 | [deny-global.txt](https://raw.githubusercontent.com/thisnamebusy/dns-policy/main/deny-global.txt) | Дополнительные блокировки |
-| [deny-ps4.txt](https://raw.githubusercontent.com/thisnamebusy/dns-policy/main/deny-ps4.txt) | Ограничения обновлений и сервисов PS4 |
+| [deny-ps.txt](https://raw.githubusercontent.com/thisnamebusy/dns-policy/main/deny-ps.txt) | Ограничения обновлений PS |
 | [hblock-hosts.txt](https://raw.githubusercontent.com/thisnamebusy/dns-policy/main/hblock-hosts.txt) | Зеркало [hBlock](https://github.com/hectorm/hblock): реклама, трекеры и вредоносные домены |
 
 Ссылки ведут непосредственно на файлы для подключения в AdGuard Home. `allow-global.txt` используется как белый список, остальные — как чёрные.
