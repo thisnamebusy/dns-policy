@@ -59,7 +59,7 @@ service.playstation.net                       # Служебные соедин�
 ares.dl.playstation.net                       # Преимущественно обновления игр
 apollo.dl.playstation.net                     # Преимущественно изображения PlayStation Store
 poseidon.dl.playstation.net                   # Видеоролики, обои и игровые ресурсы
-zeus.dl.playstation.net                       # Игры PS3/PSP и дополнительный контент DLC
+#zeus.dl.playstation.net                       # Игры PS3/PSP и дополнительный контент DLC
 pkg.ww.home.playstation.net                   # Загрузка пакетов PlayStation Home
 select.ww.home.playstation.net                # Выбор страны и продукта PlayStation Home
 us.np.adproxy.ndmdhs.com                      # Информационная строка XMB
