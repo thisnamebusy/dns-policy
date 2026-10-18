@@ -1,39 +1,30 @@
-# MAX / Основные серверы
-# ======================
+# VK / ВКонтакте
+# ===============
 
-domain:max.ru                 # Основной сайт и инфраструктура MAX
-domain:web.max.ru             # Веб-версия мессенджера
-domain:api.oneme.ru           # API сообщений, авторизации и синхронизации
-domain:ws-api.oneme.ru        # WebSocket — обмен сообщениями в реальном времени
-domain:st.max.ru              # Статические файлы веб-клиента
+vk.com                 # Основной сайт ВКонтакте
+vk.ru                  # Дополнительный домен инфраструктуры VK
+api.vk.com             # API ВКонтакте
+login.vk.com           # Авторизация пользователей
+oauth.vk.com           # OAuth-авторизация приложений
+id.vk.com              # VK ID — единая система авторизации
+vk.me                  # Короткие ссылки на сообщения и диалоги
 
-# MAX / Медиа и файлы
-# -------------------
+# VK / Медиа
+# ----------
 
-domain:i.oneme.ru             # Аватары и изображения
-domain:fu.oneme.ru            # Загрузка файлов
-domain:iu.oneme.ru            # Загрузка изображений
-domain:vu.okcdn.ru            # Загрузка аудио и видео
-domain:pimg.mycdn.me          # Предварительные изображения видеороликов
-domain:iv.okcdn.ru            # Доставка видеоконтента
-domain:okcdn.ru               # CDN — медиаконтент и видеосерверы
+userapi.com            # Пользовательские изображения и файлы
+vk-cdn.net             # CDN — доставка статических файлов и медиаконтента
+vkuser.net             # Пользовательские медиаресурсы
+vkuseraudio.com        # Доставка аудиоконтента
+vkuseraudio.net        # Доставка аудиоконтента
+vkuserlive.net         # Контент прямых трансляций
+vkuservideo.com        # Доставка видеоконтента
+vkuservideo.net        # Доставка видеоконтента
+vkcache.com            # Кеширование и доставка контента
+vk-portal.net          # Сопутствующая инфраструктура VK
 
-# MAX / Звонки
-# ------------
+# VK / Мессенджер
+# ---------------
 
-domain:calls.okcdn.ru         # API голосовых и видеозвонков
-
-# MAX / Платформа ботов
-# ---------------------
-
-domain:platform-api2.max.ru   # Актуальный API платформы ботов MAX
-domain:platform-api.max.ru    # Прежний API платформы ботов MAX
-
-# MAX / Аналитика и диагностика
-# -----------------------------
-
-domain:tracker-api.vk-analytics.ru  # Сбор аналитики использования приложения
-domain:sdk-api.apptracer.ru         # Диагностика и отчёты об ошибках
-domain:api.ipify.org                # Определение внешнего IP-адреса
-domain:ifconfig.me                  # Определение внешнего IP-адреса
-domain:ipv4-internet.yandex.net     # Проверка внешнего IPv4-адреса
+vkmessenger.com        # Инфраструктура VK Messenger
+vkmessenger.app        # Домен приложения VK Messenger
