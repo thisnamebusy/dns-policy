@@ -87,6 +87,13 @@ weather.yastatic.net                         # Файлы Яндекс Пого�
 yastatic-net.ru                              # Вероятно, вспомогательный домен Яндекса
 yastatic.net                                 # Файлы Яндекса, включая рекламные скрипты
 
+Yandex secure DNS
+-----------------
+
+common.dot.dns.yandex.net                    # Yandex DNS
+family.dot.dns.yandex.net                    # Yandex Family DNS
+safe.dot.dns.yandex.net                      # Yandex Safe DNS
+
 # Social networks / dating
 # ------------------------
 
