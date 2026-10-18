@@ -13,12 +13,4 @@ Yandex advertising / analytics
 ads.adfox.ru                         # AdFox advertising
 mc.yandex.ru                         # Yandex Metrica
 
-Yandex secure DNS
------------------
-
-common.dot.dns.yandex.net            # Yandex DNS
-family.dot.dns.yandex.net            # Yandex Family DNS
-safe.dot.dns.yandex.net              # Yandex Safe DNS
-
-
 fd.api.iris.microsoft.com
