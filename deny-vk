@@ -1,0 +1,30 @@
+# VK / ВКонтакте
+# ===============
+
+domain:vk.com                 # Основной сайт ВКонтакте
+domain:vk.ru                  # Дополнительный домен инфраструктуры VK
+domain:api.vk.com             # API ВКонтакте
+domain:login.vk.com           # Авторизация пользователей
+domain:oauth.vk.com           # OAuth-авторизация приложений
+domain:id.vk.com              # VK ID — единая система авторизации
+domain:vk.me                  # Короткие ссылки на сообщения и диалоги
+
+# VK / Медиа
+# ----------
+
+domain:userapi.com            # Пользовательские изображения и файлы
+domain:vk-cdn.net             # CDN — доставка статических файлов и медиаконтента
+domain:vkuser.net             # Пользовательские медиаресурсы
+domain:vkuseraudio.com        # Доставка аудиоконтента
+domain:vkuseraudio.net        # Доставка аудиоконтента
+domain:vkuserlive.net         # Контент прямых трансляций
+domain:vkuservideo.com        # Доставка видеоконтента
+domain:vkuservideo.net        # Доставка видеоконтента
+domain:vkcache.com            # Кеширование и доставка контента
+domain:vk-portal.net          # Сопутствующая инфраструктура VK
+
+# VK / Мессенджер
+# ---------------
+
+domain:vkmessenger.com        # Инфраструктура VK Messenger
+domain:vkmessenger.app        # Домен приложения VK Messenger
