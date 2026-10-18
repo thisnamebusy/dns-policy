@@ -1,16 +1,65 @@
-block-global
-============
+# block-global
+# ============
 
-Yandex services
----------------
+# Yandex services
+# ---------------
 
 api.start.ru                         # START API
 partners.ott.yandex.ru               # Yandex TV / OTT
 
-Yandex advertising / analytics
-------------------------------
+# Yandex advertising / analytics
+# ------------------------------
 
-ads.adfox.ru                         # AdFox advertising
-mc.yandex.ru                         # Yandex Metrica
+ads.adfox.ru                         # AdFox — рекламная платформа
+mc.yandex.ru                         # Yandex Metrica — аналитика и отслеживание
 
-fd.api.iris.microsoft.com
+# Microsoft
+# ---------
+
+fd.api.iris.microsoft.com            # Microsoft — служебный API Iris
+
+# MAX / Основные серверы
+# ----------------------
+
+||max.ru^                             # Основной сайт, веб-клиент и поддомены MAX
+||oneme.ru^                           # API, авторизация, сообщения, синхронизация и файлы
+
+# MAX / Медиа и звонки
+# --------------------
+
+||okcdn.ru^                           # CDN видео, файлов, голосовых и видеозвонков
+||mycdn.me^                           # Изображения, превью и медиаконтент
+
+# MAX / Аналитика и диагностика
+# -----------------------------
+
+||vk-analytics.ru^                    # Аналитика использования приложений VK
+||apptracer.ru^                       # Диагностика и отчёты об ошибках
+
+# VK / Основные домены
+# --------------------
+
+||vk.com^                             # Основной сайт, API, авторизация и поддомены
+||vk.ru^                              # Дополнительная инфраструктура VK и поддомены
+||vk.me^                              # Короткие ссылки на сообщения и диалоги
+||id.vk.com^                          # VK ID — единая система авторизации
+
+# VK / Медиаконтент
+# -----------------
+
+||userapi.com^                        # Пользовательские изображения и файлы
+||vk-cdn.net^                         # CDN статических файлов и медиаконтента
+||vkuser.net^                         # Пользовательские медиаресурсы
+||vkuseraudio.com^                    # Серверы аудиоконтента
+||vkuseraudio.net^                    # Серверы аудиоконтента
+||vkuserlive.net^                     # Контент прямых трансляций
+||vkuservideo.com^                    # Серверы видеоконтента
+||vkuservideo.net^                    # Серверы видеоконтента
+||vkcache.com^                        # Кеширование и доставка контента
+||vk-portal.net^                      # Дополнительная инфраструктура VK
+
+# VK / Мессенджер
+# ---------------
+
+||vkmessenger.com^                    # Инфраструктура VK Messenger
+||vkmessenger.app^                    # Домен приложения VK Messenger
