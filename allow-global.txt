@@ -46,7 +46,6 @@ adguard-dns.com                              # Сайт и настройка Ad
 dns.adguard-dns.com                          # AdGuard DNS: фильтрация рекламы и угроз
 dns.cloudflare.com                           # Cloudflare DNS: DoH
 dns.google                                   # Google DNS: DoH и DoT
-dns.google.com                               # Прежний адрес Google DNS
 dns.opendns.com                              # Публичный DNS OpenDNS
 dns.quad9.net                                # Quad9 DNS: блокировка вредоносных доменов
 doh.cleanbrowsing.org                        # Зашифрованный DNS CleanBrowsing
