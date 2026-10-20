@@ -5,29 +5,10 @@
 # ----------------
 
 acdn.tinkoff.ru                              # Файлы сервисов Т-Банка
-business.cdn-tinkoff.ru                      # Файлы Т-Бизнеса
-business.t-static.ru                         # Файлы интерфейса Т-Бизнеса
-cdn.tbank.ru                                 # Файлы и изображения Т-Банка
-email.cdn-tinkoff.ru                         # Ресурсы писем Т-Банка
 error-hub.tbank.ru                           # Отправка отчётов об ошибках Т-Банка
 error-hub.tinkoff.ru                         # Вероятно, прежний сборщик ошибок Т-Банка
-fallback.cdn-tinkoff.ru                      # Вероятно, резервный сервер файлов Т-Банка
-imgproxy.cdn-tinkoff.ru                      # Загрузка и обработка изображений Т-Банка
-invest-brands.cdn-tinkoff.ru                 # Логотипы и изображения Т-Инвестиций
-invest-frontend.cdn-tinkoff.ru               # Файлы интерфейса Т-Инвестиций
-invest-terminal-static.t-static.ru           # Файлы терминала Т-Инвестиций
 invest-tracking-strategy.cdn-tinkoff.ru      # Вероятно, файлы стратегий автоследования
-invest-wmadm-feed-bucket.cdn-tinkoff.ru      # Вероятно, материалы ленты Т-Инвестиций
-invest-wmadm-widgets-bucket.cdn-tinkoff.ru   # Вероятно, файлы виджетов Т-Инвестиций
-mobile-bank.cdn-tinkoff.ru                   # Файлы мобильного банка
 opis-cdn.tinkoffjournal.ru                   # Изображения и документы Т—Ж
-pulse-image-avatar.cdn-tinkoff.ru            # Аватары пользователей Пульса
-pulse-image-post.cdn-tinkoff.ru              # Изображения публикаций Пульса
-pulse-navigation-image.cdn-tinkoff.ru        # Изображения разделов Пульса
-sso-forms-prod.t-static.ru                   # Формы входа через Т-ID
-t-j.ru                                       # Т—Ж: статьи и обсуждения
-unic-cdn-prod.cdn-tinkoff.ru                 # Файлы сервисов Т-Банка
-www.cdn-tinkoff.ru                           # Файлы сервисов Т-Банка
 
 # Finance / exchanges
 # -------------------
@@ -62,15 +43,12 @@ frontend.vh.yandex.ru                        # Видеосервис Яндек
 maps.yastatic.net                            # Файлы и изображения Яндекс Карт
 push.yandex.ru                               # Уведомления сервисов Яндекса
 weather.yastatic.net                         # Файлы Яндекс Погоды
-yastatic-net.ru                              # Вероятно, вспомогательный домен Яндекса
+
 yastatic.net                                 # Файлы Яндекса, включая рекламные скрипты
 
 # Social networks / dating
 # ------------------------
 
-api.twitter.com                              # API социальной сети X / Twitter
-chat.social-solutions.ru                     # Встроенный чат Social Solutions
-chatbackend.social-solutions.ru              # Сервер встроенного чата Social Solutions
 edge-chat.instagram.com                      # Обмен сообщениями Instagram
 gateway.instagram.com                        # Служебные соединения Instagram
 scontent-ams2-1.cdninstagram.com             # Фото и видео Instagram
@@ -83,7 +61,6 @@ scontent-fra3-2.cdninstagram.com             # Фото и видео Instagram
 scontent-fra5-1.cdninstagram.com             # Фото и видео Instagram
 scontent-fra5-2.cdninstagram.com             # Фото и видео Instagram
 scontent.cdninstagram.com                    # Фото и видео Instagram
-settings-service.social-solutions.ru         # Настройки виджетов Social Solutions
 static.cdninstagram.com                      # Скрипты и оформление Instagram
 static.wmbcdn.com                            # Файлы сервиса знакомств Mamba
 web-chat-e2ee.instagram.com                  # Зашифрованные чаты Instagram
@@ -97,24 +74,14 @@ fivepost.ru                                  # Доставка 5Post; на са
 hd.kinopoisk.ru                              # Просмотр видео Кинопоиска
 kinopoisk.userecho.com                       # Обратная связь и предложения Кинопоиска
 kinopoiskapiunofficial.tech                  # Неофициальный API Кинопоиска
-media.ixbt.com                               # Изображения публикаций iXBT
-st.aestatic.net                              # Файлы интерфейса AliExpress
-st.aliexpress.ru                             # Файлы интерфейса AliExpress
 translate.google.com                         # Google Переводчик
 
 # Hosting / hardware / software
 # -----------------------------
 
-5jtchkrg1q.a.trbcdn.net                      # Узел CDNvideo; содержимое не установлено
-aoostar.com                                  # Сайт и поддержка оборудования AOOSTAR
-api.mobile.pc.kvado.ru                       # Вероятно, API приложения ЖКХ КВАДО
 community-scripts.org                        # Скрипты установки сервисов для Proxmox
 crl.microsoft.com                            # Списки отозванных сертификатов Microsoft
-cxema.su                                     # Схемы и BoardView для ремонта электроники
 dl.cloudsmith.io                             # Загрузка программных пакетов Cloudsmith
-hostkey.ru                                   # Сайт хостинг-провайдера HOSTKEY
-invapi.hostkey.ru                            # Панель управления серверами HOSTKEY
-lvgl.io                                      # Графическая библиотека для дисплеев
 nuc-cdp.voskhod.ru                           # Сертификаты и списки отзыва НУЦ
 o2.mail.ru                                   # Авторизация через аккаунт Mail.ru
 onetv-srt.com                                # Форум ремонта телевизоров; есть реклама
@@ -122,48 +89,20 @@ onetv-srt.com                                # Форум ремонта тел�
 # AI / agents / development
 # -------------------------
 
-api.workos.com                               # API авторизации и управления доступом
-assets.alicdn.com                            # Файлы сервисов Alibaba
-at.alicdn.com                                # Шрифты и значки сервисов Alibaba
 chat.z.ai                                    # Чат с моделями Z.ai / GLM
-code.visualstudio.com                        # Сайт, загрузки и документация VS Code
 d.alicdn.com                                 # Ресурсы Alibaba, включая аналитику
 docs.continue.dev                            # Документация ИИ-помощника Continue
-docs.openclaw.ai                             # Документация OpenClaw
-docs.z.ai                                    # Документация моделей и API Z.ai
-g.alicdn.com                                 # Скрипты Alibaba, включая аналитику
 ga-bp1aognb8xq6akjh9r3do.aliyunga0018.com    # Сетевой ускоритель Alibaba для Qwen
-img.alicdn.com                               # Изображения сервисов Alibaba
 kilo.ai                                      # ИИ-помощник для разработки Kilo
-main.vscode-cdn.net                          # Файлы веб-версии VS Code
-modelcontextprotocol.io                      # Спецификация и документация MCP
-nanaimage.ai                                 # Генерация изображений; есть счётчики
 nodepay.ai                                   # Платформа сбора мнений и сигналов
-o.alicdn.com                                 # Капча Alibaba и сбор отпечатка устройства
 opencode.ai                                  # ИИ-агент для разработки OpenCode
-portal.qwen.ai                               # Поддомен Qwen; назначение не уточнено
-rules1.clearurls.xyz                         # Правила удаления меток слежения ClearURLs
-signin.ollama.com                            # Вход в аккаунт Ollama
-skills.sh                                    # Каталог навыков агентов; проверять код
 ss.qwen.ai                                   # Поддомен Qwen; назначение не ясно
 
 # Gaming / consoles
 # =================
 
-# PlayStation / Sony
-# -----------------
-image.api.playstation.com                    # Изображения и медиаресурсы PlayStation
-#image.api.np.km.playstation.net              # Изображения и обложки контента PlayStation
-#vulcan.dl.playstation.net                    # Загрузка контента PlayStation Network
-
 # 2K Games
 # --------
-508223012e5a5ff19f30a391b2bdadc0.my.2k.com   # Персонализированный адрес сервиса 2K; назначение не установлено
-entitlements.api.2kcoretech.online           # Проверка прав на игры и дополнительный контент
-mafia.2k.com                                 # Официальный сайт серии Mafia
-promotions-ew-assets.2kcoretech.online       # Ресурсы игровых акций и предложений 2K
-promotions.api.2kcoretech.online             # API игровых акций и предложений 2K
-sso.api.2kcoretech.online                    # Единая авторизация в сервисах 2K
 
 # World of Warships: Legends / Wargaming
 # -------------------------------------
@@ -171,8 +110,6 @@ csis-lg.wowslegends.com                      # Служебный узел WoWS 
 lg.wowslegends.com                           # Предположительно сбор игровых событий и журналов
 login-1.wowslegends.com                      # Сервер авторизации WoWS Legends
 login-2.wowslegends.com                      # Сервер авторизации WoWS Legends
-navy-media-lepo-prod.wgcdn.co                # CDN медиаресурсов WoWS Legends
-wowslegends-game-production.gcdn.co          # Производственная игровая инфраструктура WoWS Legends
 wowslegends.com                              # Официальный сайт World of Warships: Legends
 
 # Activision / Demonware
@@ -183,42 +120,27 @@ pipes-prod-glutton.public.aws.demonware.net  # Сервис Demonware для Cal
 # --------------------------
 ixbt.games                                   # Новости и обзоры видеоигр
 media.ixbt.games                             # Изображения и медиа игрового портала iXBT
-romspure.cc                                  # Сторонний каталог ROM-образов для эмуляторов
+
 stratege.ru                                  # Игровые новости, руководства и трофеи
 www.pspx.ru                                  # Форум и магазин игровых консолей
-cdn.iphones.ru
 
 # Torrent trackers
 # ----------------
 
-apibay.org                                   # API каталога The Pirate Bay
-bt.booktracker.work                          # Обмен адресами пиров Booktracker
-h4.trakx.nibba.trade                         # Торрент-трекер; текущее состояние неизвестно
 kinozal.jumpingcrab.com                      # Зеркало Кинозала
-nnmstatic.win                                # Файлы и реклама NNM-Club
-piratebayproxy.net                           # Прокси The Pirate Bay; есть реклама VPN
-pirates-forum.org                            # Форум сообщества The Pirate Bay
-t-ru.org                                     # Служебный домен RuTracker
 thepiratebay.org                             # Торрент-каталог; проверять права на контент
-torrent-games.games                          # Каталог игровых репаков; проверять права
-torrindex.net                                # Ресурс The Pirate Bay; функция не уточнена
-tr0.tor4me.info                              # Обмен адресами пиров Кинозала
-tr0.torrent4me.com                           # Обмен адресами пиров Кинозала
-tr1.tor2me.info                              # Обмен адресами пиров Кинозала
-tr1.tor4me.info                              # Обмен адресами пиров Кинозала
-tr1.torrent4me.com                           # Обмен адресами пиров Кинозала
-tr2.tor2me.info                              # Обмен адресами пиров Кинозала
-tr2.tor4me.info                              # Обмен адресами пиров Кинозала
-tr2.torrent4me.com                           # Обмен адресами пиров Кинозала
-tr3.tor2me.info                              # Обмен адресами пиров Кинозала
-tr3.tor4me.info                              # Обмен адресами пиров Кинозала
-tr3.torrent4me.com                           # Обмен адресами пиров Кинозала
-tr4.tor2me.info                              # Обмен адресами пиров Кинозала
-tr4.tor4me.info                              # Обмен адресами пиров Кинозала
-tr4.torrent4me.com                           # Обмен адресами пиров Кинозала
-tr5.tor2me.info                              # Обмен адресами пиров Кинозала
-tr5.tor4me.info                              # Обмен адресами пиров Кинозала
-tr5.torrent4me.com                           # Обмен адресами пиров Кинозала
+tr0.tor4me.info                              # Обмен пирами
+tr0.torrent4me.com                           # Обмен пирами
+tr1.tor4me.info                              # ООбмен пирами
+tr1.torrent4me.com                           # Обмен пирами
+tr2.tor4me.info                              # Обмен пирами
+tr2.torrent4me.com                           # Обмен пирами
+tr3.tor4me.info                              # Обмен пирами
+tr3.torrent4me.com                           # Обмен пирами
+tr4.tor4me.info                              # Обмен пирами
+tr4.torrent4me.com                           # Обмен пирами
+tr5.tor4me.info                              # Обмен пирами
+tr5.torrent4me.com                           # Обмен пирами
 www.pirateproxy-bay.com                      # Прокси The Pirate Bay; подлинность неясна
 
 # News
