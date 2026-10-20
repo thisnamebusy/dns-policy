@@ -313,6 +313,7 @@ media.ixbt.games                             # Изображения и мед�
 romspure.cc                                  # Сторонний каталог ROM-образов для эмуляторов
 stratege.ru                                  # Игровые новости, руководства и трофеи
 www.pspx.ru                                  # Форум и магазин игровых консолей
+cdn.iphones.ru
 
 # Torrent trackers
 # ----------------
