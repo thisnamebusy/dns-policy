@@ -146,3 +146,4 @@ www.pirateproxy-bay.com                      # Прокси The Pirate Bay; по
 # News
 #-----
 gamegpu.com                                  # Русско-английский IT-портал
+cdn.iphones.ru
