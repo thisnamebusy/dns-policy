@@ -37,27 +37,6 @@ flowers.moex.com                             # Московская биржа
 # VPN / proxy / tunnels
 # ---------------------
 
-0ru86.tcpnet.fun                             # Предполагаемый узел AB VPN
-aut04.lowlatency.cloud                       # Вероятно, узел VPN; назначение уточнить
-cftunnel.com                                 # Работа Cloudflare Tunnel
-de12.abvpn.ru                                # Сервер AB VPN
-de18.abvpn.net                               # Сервер AB VPN
-h2.cftunnel.com                              # Cloudflare Tunnel по HTTP/2
-keeneticmom.netcraze.link                    # Адрес удалённого доступа через CrazeDNS
-lt03.abvpn.net                               # Сервер AB VPN
-nl29.abvpn.net                               # Сервер AB VPN
-quic.cftunnel.com                            # Cloudflare Tunnel по QUIC
-ru09.abvpn.net                               # Сервер AB VPN
-ru13.theabvp.org                             # Предполагаемый узел AB VPN
-ru25.tcpdoor.net                             # Предполагаемый узел AB VPN
-ru26.abvpn.ru                                # Сервер AB VPN
-ru37.tcpdoor.net                             # Предполагаемый узел AB VPN
-ru41.theabvp.org                             # Предполагаемый узел AB VPN
-ru50.theabvp.org                             # Предполагаемый узел AB VPN
-ru57.abvpn.net                               # Сервер AB VPN
-ru71.tcpdoor.net                             # Предполагаемый узел AB VPN
-usa04.abvpn.net                              # Сервер AB VPN
-usa24.tcpnet.fun                             # Предполагаемый узел AB VPN
 xray.abvpn.ru                                # Подключение AB VPN через Xray
 
 # DNS / secure resolvers
