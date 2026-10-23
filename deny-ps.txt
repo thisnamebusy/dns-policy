@@ -101,3 +101,7 @@ post.p01.ps4.update.playstation.net           # Адрес инфраструк�
 # millenniumfalcon.rnps.dl.playstation.net    # Компонент RNPS, точная функция не установлена
 # monte-carlo.rnps.dl.playstation.net         # Компонент RNPS, точная функция не установлена
 # ppr-crl.rnps.dl.playstation.net             # Служебный ресурс RNPS, точная функция не установлена
+fjp01.ps5.update.playstation.net              # Получение списка обновлений
+djp01.ps5.update.playstation.net              # Сервер загрузки прошивки для японского направления
+dus01.ps5.update.playstation.net              # Сервер загрузки прошивки для американского направления
+# pc.ps5.update.playstation.net                # Скачивание прошивки через официальный сайт Sony для обновления с USB
