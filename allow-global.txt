@@ -43,7 +43,6 @@ frontend.vh.yandex.ru                        # Видеосервис Яндек
 maps.yastatic.net                            # Файлы и изображения Яндекс Карт
 push.yandex.ru                               # Уведомления сервисов Яндекса
 weather.yastatic.net                         # Файлы Яндекс Погоды
-
 yastatic.net                                 # Файлы Яндекса, включая рекламные скрипты
 
 # Social networks / dating
@@ -75,6 +74,7 @@ hd.kinopoisk.ru                              # Просмотр видео Ки�
 kinopoisk.userecho.com                       # Обратная связь и предложения Кинопоиска
 kinopoiskapiunofficial.tech                  # Неофициальный API Кинопоиска
 translate.google.com                         # Google Переводчик
+iptvx.one                                    # популярный бесплатный источник EPG 
 
 # Hosting / hardware / software
 # -----------------------------
