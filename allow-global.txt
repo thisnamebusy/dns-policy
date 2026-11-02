@@ -74,7 +74,9 @@ hd.kinopoisk.ru                              # Просмотр видео Ки�
 kinopoisk.userecho.com                       # Обратная связь и предложения Кинопоиска
 kinopoiskapiunofficial.tech                  # Неофициальный API Кинопоиска
 translate.google.com                         # Google Переводчик
-iptvx.one                                    # популярный бесплатный источник EPG 
+iptvx.one                                    # популярный бесплатный источник EPG
+epg.iptvx.one
+doas.top
 
 # Hosting / hardware / software
 # -----------------------------
