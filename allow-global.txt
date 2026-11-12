@@ -152,3 +152,4 @@ cdn.iphones.ru
 
 # VDS
 hostiman.ru                                  # хостинг-провайдер
+my.hostiman.ru                               # хостинг-провайдер регистрация
