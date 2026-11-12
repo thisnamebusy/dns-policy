@@ -149,3 +149,6 @@ www.pirateproxy-bay.com                      # Прокси The Pirate Bay; по
 #-----
 gamegpu.com                                  # Русско-английский IT-портал
 cdn.iphones.ru
+
+# VDS
+hostiman.ru                                  # хостинг-провайдер
