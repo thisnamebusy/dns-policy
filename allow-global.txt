@@ -151,6 +151,8 @@ gamegpu.com                                  # Русско-английский
 cdn.iphones.ru
 
 # VDS & ISP
+#----------
 hostiman.ru                                  # хостинг-провайдер
 my.hostiman.ru                               # хостинг-провайдер регистрация
 proxywing.com                                # приватный прокси
+dashboard.proxywing.com                      # приватный прокси
