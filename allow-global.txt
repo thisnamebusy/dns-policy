@@ -156,3 +156,4 @@ hostiman.ru                                  # хостинг-провайдер
 my.hostiman.ru                               # хостинг-провайдер регистрация
 proxywing.com                                # приватный прокси
 dashboard.proxywing.com                      # приватный прокси
+ipinfo.io
