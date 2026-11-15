@@ -105,6 +105,7 @@ ss.qwen.ai                                   # Поддомен Qwen; назна
 
 image.api.playstation.com
 cdn.orbispatches.com
+dlpsgame.com
 
 # 2K Games
 # --------
