@@ -155,9 +155,12 @@ cdn.iphones.ru
 # VDS & ISP
 #----------
 
-hostiman.ru	                                 # аренда VPS/VDS
-my.hostiman.ru	                             # Личный кабинет HostiMan
-proxywing.com	                               # продажа прокси, включая ISP-прокси
-dashboard.proxywing.com	                     # управление прокси, балансом
-ipinfo.io	                                   # Сервис проверки IP — геолокация
-cloud.api.selcloud.ru	                       # Служебный API Selectel
+hostiman.ru                                  # аренда VPS/VDS
+my.hostiman.ru                               # личный кабинет HostiMan
+proxywing.com                                # продажа прокси, включая ISP-прокси
+dashboard.proxywing.com                      # управление прокси и балансом
+ipinfo.io                                    # проверка IP и геолокации
+
+# Selectel
+@@||cloud.api.selcloud.ru^                   # авторизация
+@@||dbaas.selcloud.ru^                       # API управления
