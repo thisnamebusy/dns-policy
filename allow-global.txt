@@ -161,6 +161,8 @@ proxywing.com                                # продажа прокси, вк
 dashboard.proxywing.com                      # управление прокси и балансом
 ipinfo.io                                    # проверка IP и геолокации
 
-# Selectel
-@@||cloud.api.selcloud.ru^                   # авторизация
-@@||dbaas.selcloud.ru^                       # API управления
+# Selectel: авторизация
+@@||cloud.api.selcloud.ru^
+
+# Selectel: API управления облачными базами данных
+@@||dbaas.selcloud.ru^
