@@ -78,7 +78,7 @@ iptvx.one                                    # популярный беспла
 epg.iptvx.one
 doas.top
 
-# Hosting / hardware / software
+# hardware / software
 # -----------------------------
 
 community-scripts.org                        # Скрипты установки сервисов для Proxmox
@@ -106,9 +106,6 @@ ss.qwen.ai                                   # Поддомен Qwen; назна
 image.api.playstation.com
 cdn.orbispatches.com
 dlpsgame.com
-
-# 2K Games
-# --------
 
 # World of Warships: Legends / Wargaming
 # -------------------------------------
@@ -151,13 +148,16 @@ www.pirateproxy-bay.com                      # Прокси The Pirate Bay; по
 
 # News
 #-----
+
 gamegpu.com                                  # Русско-английский IT-портал
 cdn.iphones.ru
 
 # VDS & ISP
 #----------
-hostiman.ru                                  # хостинг-провайдер
-my.hostiman.ru                               # хостинг-провайдер регистрация
-proxywing.com                                # приватный прокси
-dashboard.proxywing.com                      # приватный прокси
-ipinfo.io
+
+hostiman.ru	                                 # аренда VPS/VDS
+my.hostiman.ru	                             # Личный кабинет HostiMan
+proxywing.com	                               # продажа прокси, включая ISP-прокси
+dashboard.proxywing.com	                     # управление прокси, балансом
+ipinfo.io	                                   # Сервис проверки IP — геолокация
+cloud.api.selcloud.ru	                       # Служебный API Selectel
