@@ -103,6 +103,8 @@ ss.qwen.ai                                   # Поддомен Qwen; назна
 # Gaming / consoles
 # =================
 
+image.api.playstation.com
+
 # 2K Games
 # --------
 
