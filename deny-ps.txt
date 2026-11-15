@@ -82,7 +82,7 @@ post.p01.ps4.update.playstation.net           # Адрес инфраструк�
 # PS5
 # ---
 
-# ps5.update.playstation.net                  # Проверка и загрузка системных прошивок PS5
+ps5.update.playstation.net                  # Проверка и загрузка системных прошивок PS5
 # ps5.np.playstation.net                      # Служебный сервер PS5, точная функция не установлена
 # sgst.prod.dl.playstation.net                # Сведения о патчах игр PS5 и ссылки на пакеты обновлений
 # ps5-multi-bundle-ota.rnps.dl.playstation.net # Доставка компонентов интерфейса PS5, RNPS
@@ -104,4 +104,4 @@ post.p01.ps4.update.playstation.net           # Адрес инфраструк�
 fjp01.ps5.update.playstation.net              # Получение списка обновлений
 djp01.ps5.update.playstation.net              # Сервер загрузки прошивки для японского направления
 dus01.ps5.update.playstation.net              # Сервер загрузки прошивки для американского направления
-# pc.ps5.update.playstation.net                # Скачивание прошивки через официальный сайт Sony для обновления с USB
+pc.ps5.update.playstation.net                # Скачивание прошивки через официальный сайт Sony для обновления с USB
