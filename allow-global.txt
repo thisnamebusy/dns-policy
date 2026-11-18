@@ -159,10 +159,15 @@ hostiman.ru                                  # аренда VPS/VDS
 my.hostiman.ru                               # личный кабинет HostiMan
 proxywing.com                                # продажа прокси, включая ISP-прокси
 dashboard.proxywing.com                      # управление прокси и балансом
-ipinfo.io                                    # проверка IP и геолокации
+
 
 # Selectel: авторизация
 @@||cloud.api.selcloud.ru^
 
 # Selectel: API управления облачными базами данных
 @@||dbaas.selcloud.ru^
+
+# other
+#----------
+api.ipify.org
+ipinfo.io                                    # проверка IP и геолокации
