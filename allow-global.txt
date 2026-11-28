@@ -99,6 +99,7 @@ kilo.ai                                      # ИИ-помощник для ра
 nodepay.ai                                   # Платформа сбора мнений и сигналов
 opencode.ai                                  # ИИ-агент для разработки OpenCode
 ss.qwen.ai                                   # Поддомен Qwen; назначение не ясно
+llama.app
 
 # Gaming / consoles
 # =================
